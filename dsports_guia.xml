@@ -36,109 +36,7 @@
     <display-name>DTVSHD</display-name>
     <icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1618.png&amp;width=143&amp;height=148" />
   </channel>
-  <programme start="20260620051500 +0000" stop="20260620053000 +0000" channel="dsports_plus.ar">
-    <title>Copa Mundial: Argentina vs. Argelia</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260620053000 +0000" stop="20260620060000 +0000" channel="dsports_plus.ar">
-    <title>Copa Mundial: Canadá vs. Catar</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260620060000 +0000" stop="20260620080000 +0000" channel="dsports_plus.ar">
-    <title>Turquía vs. Paraguay</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260620080000 +0000" stop="20260620090000 +0000" channel="dsports_plus.ar">
-    <title>Escocia vs. Marruecos</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450012/images/IMG-7EC4E03E-D546-44FD-BF49-22E7065B4CF6.jpeg" />
-  </programme>
-  <programme start="20260620090000 +0000" stop="20260620100000 +0000" channel="dsports_plus.ar">
-    <title>Escocia vs. Marruecos</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450012/images/IMG-7EC4E03E-D546-44FD-BF49-22E7065B4CF6.jpeg" />
-  </programme>
-  <programme start="20260620100000 +0000" stop="20260620120000 +0000" channel="dsports_plus.ar">
-    <title>Estados Unidos vs. Australia</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260620120000 +0000" stop="20260620140000 +0000" channel="dsports_plus.ar">
-    <title>Turquía vs. Paraguay</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260620140000 +0000" stop="20260620160000 +0000" channel="dsports_plus.ar">
-    <title>Estados Unidos vs. Australia</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260620160000 +0000" stop="20260620164800 +0000" channel="dsports_plus.ar">
-    <title>DSPORTS Mundial</title>
-    <category>Talk</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260620164800 +0000" stop="20260620190000 +0000" channel="dsports_plus.ar">
-    <title>Mosaico WC FIFA 2026: Países Bajos vs. Suecia</title>
-    <category>Special</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260620190000 +0000" stop="20260620194800 +0000" channel="dsports_plus.ar">
-    <title>DSPORTS Mundial</title>
-    <category>Talk</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260620194800 +0000" stop="20260620220000 +0000" channel="dsports_plus.ar">
-    <title>Mosaico WC FIFA 2026: Alemania vs. Costa de Marfil</title>
-    <category>Sports</category>
-    <category>Special</category>
-  </programme>
-  <programme start="20260620220000 +0000" stop="20260620223000 +0000" channel="dsports_plus.ar">
-    <title>Copa Mundial de la FIFA 2026: Estados Unidos vs. Australia</title>
-    <category>Series</category>
-    <category>default</category>
-  </programme>
-  <programme start="20260620223000 +0000" stop="20260620230000 +0000" channel="dsports_plus.ar">
-    <title>Copa Mundial de la FIFA 2026: Brasil vs. Haití</title>
-    <category>Series</category>
-    <category>default</category>
-  </programme>
-  <programme start="20260620230000 +0000" stop="20260620234800 +0000" channel="dsports_plus.ar">
-    <title>DSPORTS Mundial</title>
-    <category>Talk</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260620234800 +0000" stop="20260621020000 +0000" channel="dsports_plus.ar">
-    <title>Mosaico WC FIFA 2026: Ecuador vs. Curazao</title>
-    <category>Special</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260621020000 +0000" stop="20260621023000 +0000" channel="dsports_plus.ar">
-    <title>Copa Mundial de la FIFA 2026: Estados Unidos vs. Australia</title>
-    <category>Series</category>
-    <category>default</category>
-  </programme>
-  <programme start="20260621023000 +0000" stop="20260621030000 +0000" channel="dsports_plus.ar">
-    <title>Copa Mundial de la FIFA 2026: Brasil vs. Haití</title>
-    <category>Series</category>
-    <category>default</category>
-  </programme>
-  <programme start="20260621030000 +0000" stop="20260621040000 +0000" channel="dsports_plus.ar">
-    <title>DSPORTS Mundial</title>
-    <category>Talk</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260621040000 +0000" stop="20260621060000 +0000" channel="dsports_plus.ar">
-    <title>Mosaico WC FIFA 2026: Túnez vs. Japón</title>
-    <category>Special</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260621060000 +0000" stop="20260621080000 +0000" channel="dsports_plus.ar">
+  <programme start="20260621061500 +0000" stop="20260621080000 +0000" channel="dsports_plus.ar">
     <title>Alemania vs. Costa de Marfil</title>
     <category>Series</category>
     <category>Soccer</category>
@@ -173,42 +71,45 @@
     <category>Talk</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260621154800 +0000" stop="20260621180000 +0000" channel="dsports_plus.ar">
+  <programme start="20260621154800 +0000" stop="20260621181500 +0000" channel="dsports_plus.ar">
     <title>Mosaico WC FIFA 2026: España vs. Arabia Saudita</title>
     <category>Special</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260621180000 +0000" stop="20260621184800 +0000" channel="dsports_plus.ar">
+  <programme start="20260621181500 +0000" stop="20260621184800 +0000" channel="dsports_plus.ar">
     <title>DSPORTS Mundial</title>
     <category>Talk</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260621184800 +0000" stop="20260621210000 +0000" channel="dsports_plus.ar">
+  <programme start="20260621184800 +0000" stop="20260621211500 +0000" channel="dsports_plus.ar">
     <title>Mosaico WC FIFA 2026: Bélgica vs. Irán</title>
     <category>Special</category>
     <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010672360000/images/IMG-92DDB65D-E442-4DD0-8857-8E689923C24F.jpeg" />
   </programme>
-  <programme start="20260621210000 +0000" stop="20260621214800 +0000" channel="dsports_plus.ar">
+  <programme start="20260621211500 +0000" stop="20260621214800 +0000" channel="dsports_plus.ar">
     <title>DSPORTS Mundial</title>
     <category>Talk</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260621214800 +0000" stop="20260622000000 +0000" channel="dsports_plus.ar">
+  <programme start="20260621214800 +0000" stop="20260622001500 +0000" channel="dsports_plus.ar">
     <title>Mosaico WC FIFA 2026: Uruguay vs. Cabo Verde</title>
     <category>Sports</category>
     <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010672380000/images/IMG-16C28290-9067-45CA-BF4A-AC7E618ECBA3.jpeg" />
   </programme>
-  <programme start="20260622000000 +0000" stop="20260622004800 +0000" channel="dsports_plus.ar">
+  <programme start="20260622001500 +0000" stop="20260622004800 +0000" channel="dsports_plus.ar">
     <title>DSPORTS Mundial</title>
     <category>Talk</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260622004800 +0000" stop="20260622030000 +0000" channel="dsports_plus.ar">
+  <programme start="20260622004800 +0000" stop="20260622031500 +0000" channel="dsports_plus.ar">
     <title>Mosaico WC FIFA 2026: Nueva Zelanda vs. Egipto</title>
     <category>Special</category>
     <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010672350000/images/IMG-1DA8B8B8-40ED-4108-A907-94F1D056D1D4.jpeg" />
   </programme>
-  <programme start="20260622030000 +0000" stop="20260622033000 +0000" channel="dsports_plus.ar">
+  <programme start="20260622031500 +0000" stop="20260622033000 +0000" channel="dsports_plus.ar">
     <title>Copa Mundial de la FIFA 2026: Ecuador vs. Curazao</title>
     <category>Series</category>
     <category>default</category>
@@ -255,13 +156,13 @@
     <category>Talk</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260622164800 +0000" stop="20260622190000 +0000" channel="dsports_plus.ar">
+  <programme start="20260622164800 +0000" stop="20260622191500 +0000" channel="dsports_plus.ar">
     <title>Mosaico WC FIFA 2026: Argentina vs. Austria</title>
     <category>Special</category>
     <category>Soccer</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010670920000/images/IMG-851C7DF3-A6C3-42D1-B1B3-55FC66AC2B28.jpeg" />
   </programme>
-  <programme start="20260622190000 +0000" stop="20260622193000 +0000" channel="dsports_plus.ar">
+  <programme start="20260622191500 +0000" stop="20260622193000 +0000" channel="dsports_plus.ar">
     <title>Copa Mundial de la FIFA 2026: España vs. Arabia Saudita</title>
     <category>Series</category>
     <category>default</category>
@@ -276,223 +177,104 @@
     <category>Talk</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260622204800 +0000" stop="20260622230000 +0000" channel="dsports_plus.ar">
+  <programme start="20260622204800 +0000" stop="20260622231500 +0000" channel="dsports_plus.ar">
     <title>Mosaico WC FIFA 2026: Francia vs. Irak</title>
     <category>Sports</category>
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010670940000/images/IMG-440A2703-C9FF-49ED-9F0A-4079C8983FBC.jpeg" />
   </programme>
-  <programme start="20260622230000 +0000" stop="20260622234800 +0000" channel="dsports_plus.ar">
+  <programme start="20260622231500 +0000" stop="20260622234800 +0000" channel="dsports_plus.ar">
     <title>DSPORTS Mundial</title>
     <category>Talk</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260622234800 +0000" stop="20260623020000 +0000" channel="dsports_plus.ar">
+  <programme start="20260622234800 +0000" stop="20260623021500 +0000" channel="dsports_plus.ar">
     <title>Mosaico WC FIFA 2026: Noruega vs. Senegal</title>
     <category>Special</category>
     <category>Soccer</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010670910000/images/IMG-0C0FFCA0-74BE-4D79-8623-20FA40C0BE31.jpeg" />
   </programme>
-  <programme start="20260620100000 +0000" stop="20260620120000 +0000" channel="dsports.ar">
-    <title>Brasil vs. Haití</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260620051500 +0000" stop="20260620070000 +0000" channel="dsports.ar">
-    <title>Brasil vs. Haití</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260620130000 +0000" stop="20260620143000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Lite</title>
-    <category>Series</category>
-    <category>Gen. Interest</category>
-  </programme>
-  <programme start="20260620164800 +0000" stop="20260620191500 +0000" channel="dsports.ar">
-    <title>Grupo F: Países Bajos vs. Suecia</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260620120000 +0000" stop="20260620123000 +0000" channel="dsports.ar">
-    <title>Copa Mundial de la FIFA 2026: Estados Unidos vs. Australia</title>
-    <category>Series</category>
-    <category>default</category>
-  </programme>
-  <programme start="20260620160000 +0000" stop="20260620164800 +0000" channel="dsports.ar">
-    <title>Países Bajos vs. Suecia</title>
-    <category>Series</category>
+  <programme start="20260623021500 +0000" stop="20260623024800 +0000" channel="dsports_plus.ar">
+    <title>DSPORTS Mundial</title>
     <category>Talk</category>
-  </programme>
-  <programme start="20260620130000 +0000" stop="20260620143000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Lite</title>
-    <category>Series</category>
-    <category>Gen. Interest</category>
-  </programme>
-  <programme start="20260620100000 +0000" stop="20260620120000 +0000" channel="dsports.ar">
-    <title>Brasil vs. Haití</title>
-    <category>Series</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260620090000 +0000" stop="20260620100000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Nite</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-B04CEB78-4222-4DD9-85B5-3F594B41C098.jpeg" />
-  </programme>
-  <programme start="20260620090000 +0000" stop="20260620100000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Nite</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-B04CEB78-4222-4DD9-85B5-3F594B41C098.jpeg" />
-  </programme>
-  <programme start="20260620164800 +0000" stop="20260620191500 +0000" channel="dsports.ar">
-    <title>Grupo F: Países Bajos vs. Suecia</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260620120000 +0000" stop="20260620123000 +0000" channel="dsports.ar">
-    <title>Copa Mundial de la FIFA 2026: Estados Unidos vs. Australia</title>
-    <category>Series</category>
-    <category>default</category>
-  </programme>
-  <programme start="20260620164800 +0000" stop="20260620191500 +0000" channel="dsports.ar">
-    <title>Grupo F: Países Bajos vs. Suecia</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260620160000 +0000" stop="20260620164800 +0000" channel="dsports.ar">
-    <title>Países Bajos vs. Suecia</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260620070000 +0000" stop="20260620090000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Nite</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-B04CEB78-4222-4DD9-85B5-3F594B41C098.jpeg" />
-  </programme>
-  <programme start="20260620100000 +0000" stop="20260620120000 +0000" channel="dsports.ar">
-    <title>Brasil vs. Haití</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260620143000 +0000" stop="20260620160000 +0000" channel="dsports.ar">
-    <title>Fútbol Total</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010081750000/images/IMG-C50134D7-44BA-46F2-83E3-3B9DA1459944.jpeg" />
-  </programme>
-  <programme start="20260620123000 +0000" stop="20260620130000 +0000" channel="dsports.ar">
-    <title>Copa Mundial de la FIFA 2026: Brasil vs. Haití</title>
-    <category>Series</category>
-    <category>default</category>
-  </programme>
-  <programme start="20260620120000 +0000" stop="20260620123000 +0000" channel="dsports.ar">
-    <title>Copa Mundial de la FIFA 2026: Estados Unidos vs. Australia</title>
-    <category>Series</category>
-    <category>default</category>
-  </programme>
-  <programme start="20260620130000 +0000" stop="20260620143000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Lite</title>
-    <category>Series</category>
-    <category>Gen. Interest</category>
-  </programme>
-  <programme start="20260620123000 +0000" stop="20260620130000 +0000" channel="dsports.ar">
-    <title>Copa Mundial de la FIFA 2026: Brasil vs. Haití</title>
-    <category>Series</category>
-    <category>default</category>
-  </programme>
-  <programme start="20260620070000 +0000" stop="20260620090000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Nite</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-B04CEB78-4222-4DD9-85B5-3F594B41C098.jpeg" />
-  </programme>
-  <programme start="20260620090000 +0000" stop="20260620100000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Nite</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-B04CEB78-4222-4DD9-85B5-3F594B41C098.jpeg" />
-  </programme>
-  <programme start="20260620160000 +0000" stop="20260620164800 +0000" channel="dsports.ar">
-    <title>Países Bajos vs. Suecia</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260620143000 +0000" stop="20260620160000 +0000" channel="dsports.ar">
-    <title>Fútbol Total</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010081750000/images/IMG-C50134D7-44BA-46F2-83E3-3B9DA1459944.jpeg" />
-  </programme>
-  <programme start="20260620051500 +0000" stop="20260620070000 +0000" channel="dsports.ar">
-    <title>Brasil vs. Haití</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260620143000 +0000" stop="20260620160000 +0000" channel="dsports.ar">
-    <title>Fútbol Total</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010081750000/images/IMG-C50134D7-44BA-46F2-83E3-3B9DA1459944.jpeg" />
-  </programme>
-  <programme start="20260620123000 +0000" stop="20260620130000 +0000" channel="dsports.ar">
-    <title>Copa Mundial de la FIFA 2026: Brasil vs. Haití</title>
-    <category>Series</category>
-    <category>default</category>
-  </programme>
-  <programme start="20260620070000 +0000" stop="20260620090000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Nite</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-B04CEB78-4222-4DD9-85B5-3F594B41C098.jpeg" />
-  </programme>
-  <programme start="20260620051500 +0000" stop="20260620070000 +0000" channel="dsports.ar">
-    <title>Brasil vs. Haití</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260620230000 +0000" stop="20260620234800 +0000" channel="dsports.ar">
-    <title>Ecuador vs. Curazao</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260620191500 +0000" stop="20260620194800 +0000" channel="dsports.ar">
-    <title>Alemania vs. Costa de Marfil</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260621034800 +0000" stop="20260621061500 +0000" channel="dsports.ar">
-    <title>Túnez vs. Japón</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260620223000 +0000" stop="20260620230000 +0000" channel="dsports.ar">
-    <title>Mundial Total</title>
+  <programme start="20260623024800 +0000" stop="20260623051500 +0000" channel="dsports_plus.ar">
+    <title>Mosaico WC FIFA 2026: Jordania vs. Argelia</title>
     <category>Special</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010642760000/images/IMG-9244D322-4ACA-4AD5-AC08-AFEADEBD601C.jpeg" />
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010670930000/images/IMG-C07D735B-BD4A-4631-9109-B539D5B7363C.jpeg" />
   </programme>
-  <programme start="20260621083000 +0000" stop="20260621090000 +0000" channel="dsports.ar">
-    <title>Copa Mundial de la FIFA 2026: Brasil vs. Haití</title>
+  <programme start="20260623051500 +0000" stop="20260623053000 +0000" channel="dsports_plus.ar">
+    <title>Copa Mundial de la FIFA 2026: España vs. Arabia Saudita</title>
     <category>Series</category>
     <category>default</category>
   </programme>
-  <programme start="20260621034800 +0000" stop="20260621061500 +0000" channel="dsports.ar">
-    <title>Túnez vs. Japón</title>
+  <programme start="20260623053000 +0000" stop="20260623060000 +0000" channel="dsports_plus.ar">
+    <title>Copa Mundial de la FIFA 2026: Uruguay vs. Cabo Verde</title>
+    <category>Series</category>
+    <category>default</category>
+  </programme>
+  <programme start="20260623060000 +0000" stop="20260623080000 +0000" channel="dsports_plus.ar">
+    <title>Noruega vs. Senegal</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450039/images/IMG-638C2F0B-ED90-4728-B923-1669D35080F2.jpeg" />
+  </programme>
+  <programme start="20260623080000 +0000" stop="20260623100000 +0000" channel="dsports_plus.ar">
+    <title>Jordania vs. Argelia</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450049/images/IMG-ACFDD768-DAFC-4F66-998F-DAC80C2FCEF2.jpeg" />
+  </programme>
+  <programme start="20260623100000 +0000" stop="20260623120000 +0000" channel="dsports_plus.ar">
+    <title>Francia vs. Irak</title>
     <category>Series</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260620230000 +0000" stop="20260620234800 +0000" channel="dsports.ar">
-    <title>Ecuador vs. Curazao</title>
+  <programme start="20260623120000 +0000" stop="20260623140000 +0000" channel="dsports_plus.ar">
+    <title>Noruega vs. Senegal</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450039/images/IMG-638C2F0B-ED90-4728-B923-1669D35080F2.jpeg" />
+  </programme>
+  <programme start="20260623140000 +0000" stop="20260623160000 +0000" channel="dsports_plus.ar">
+    <title>Francia vs. Irak</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260623160000 +0000" stop="20260623164800 +0000" channel="dsports_plus.ar">
+    <title>DSPORTS Mundial</title>
+    <category>Talk</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260623164800 +0000" stop="20260623190000 +0000" channel="dsports_plus.ar">
+    <title>Mosaico WC FIFA 2026: Portugal vs. Uzbekistán</title>
+    <category>Special</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010670970000/images/IMG-649F05F2-9F89-451D-A5F8-92D9993B0DB0.jpeg" />
+  </programme>
+  <programme start="20260623190000 +0000" stop="20260623194800 +0000" channel="dsports_plus.ar">
+    <title>DSPORTS Mundial</title>
+    <category>Talk</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260623194800 +0000" stop="20260623220000 +0000" channel="dsports_plus.ar">
+    <title>Mosaico WC FIFA 2026: Inglaterra vs. Ghana</title>
+    <category>Special</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010670950000/images/IMG-F0DD7C75-9F86-4EA8-BEC8-E9A7994E5CD5.jpeg" />
+  </programme>
+  <programme start="20260623220000 +0000" stop="20260623224800 +0000" channel="dsports_plus.ar">
+    <title>Panamá vs. Croacia</title>
     <category>Series</category>
     <category>Talk</category>
   </programme>
-  <programme start="20260620234800 +0000" stop="20260621021500 +0000" channel="dsports.ar">
-    <title>Grupo E: Ecuador vs. Curazao</title>
+  <programme start="20260623224800 +0000" stop="20260624010000 +0000" channel="dsports_plus.ar">
+    <title>Grupo L: Panamá vs. Croacia</title>
     <category>Series</category>
     <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450024/images/IMG-60B775BD-FE49-4187-B134-27C9BA171E08.jpeg" />
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450062/images/IMG-AEAE922E-96C0-4792-91B6-9713169CE507.jpeg" />
   </programme>
   <programme start="20260621080000 +0000" stop="20260621083000 +0000" channel="dsports.ar">
     <title>Copa Mundial de la FIFA 2026: Estados Unidos vs. Australia</title>
@@ -504,142 +286,25 @@
     <category>Series</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260620191500 +0000" stop="20260620194800 +0000" channel="dsports.ar">
-    <title>Alemania vs. Costa de Marfil</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260620230000 +0000" stop="20260620234800 +0000" channel="dsports.ar">
-    <title>Ecuador vs. Curazao</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260620194800 +0000" stop="20260620221500 +0000" channel="dsports.ar">
-    <title>Alemania vs. Costa de Marfil</title>
+  <programme start="20260621061500 +0000" stop="20260621080000 +0000" channel="dsports.ar">
+    <title>Grupo F: Países Bajos vs. Suecia</title>
     <category>Series</category>
     <category>Soccer</category>
-  </programme>
-  <programme start="20260620194800 +0000" stop="20260620221500 +0000" channel="dsports.ar">
-    <title>Alemania vs. Costa de Marfil</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260620234800 +0000" stop="20260621021500 +0000" channel="dsports.ar">
-    <title>Grupo E: Ecuador vs. Curazao</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450024/images/IMG-60B775BD-FE49-4187-B134-27C9BA171E08.jpeg" />
   </programme>
   <programme start="20260621061500 +0000" stop="20260621080000 +0000" channel="dsports.ar">
     <title>Grupo F: Países Bajos vs. Suecia</title>
     <category>Series</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260621021500 +0000" stop="20260621030000 +0000" channel="dsports.ar">
-    <title>Ecuador vs. Curazao</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260620191500 +0000" stop="20260620194800 +0000" channel="dsports.ar">
-    <title>Alemania vs. Costa de Marfil</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260621021500 +0000" stop="20260621030000 +0000" channel="dsports.ar">
-    <title>Ecuador vs. Curazao</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260621021500 +0000" stop="20260621030000 +0000" channel="dsports.ar">
-    <title>Ecuador vs. Curazao</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260620194800 +0000" stop="20260620221500 +0000" channel="dsports.ar">
-    <title>Alemania vs. Costa de Marfil</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260620221500 +0000" stop="20260620223000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
-  </programme>
-  <programme start="20260621061500 +0000" stop="20260621080000 +0000" channel="dsports.ar">
-    <title>Grupo F: Países Bajos vs. Suecia</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260620221500 +0000" stop="20260620223000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
-  </programme>
   <programme start="20260621080000 +0000" stop="20260621083000 +0000" channel="dsports.ar">
     <title>Copa Mundial de la FIFA 2026: Estados Unidos vs. Australia</title>
     <category>Series</category>
     <category>default</category>
   </programme>
-  <programme start="20260621030000 +0000" stop="20260621034800 +0000" channel="dsports.ar">
-    <title>Túnez vs. Japón</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
   <programme start="20260621080000 +0000" stop="20260621083000 +0000" channel="dsports.ar">
     <title>Copa Mundial de la FIFA 2026: Estados Unidos vs. Australia</title>
     <category>Series</category>
     <category>default</category>
-  </programme>
-  <programme start="20260620223000 +0000" stop="20260620230000 +0000" channel="dsports.ar">
-    <title>Mundial Total</title>
-    <category>Special</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010642760000/images/IMG-9244D322-4ACA-4AD5-AC08-AFEADEBD601C.jpeg" />
-  </programme>
-  <programme start="20260621030000 +0000" stop="20260621034800 +0000" channel="dsports.ar">
-    <title>Túnez vs. Japón</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260621083000 +0000" stop="20260621090000 +0000" channel="dsports.ar">
-    <title>Copa Mundial de la FIFA 2026: Brasil vs. Haití</title>
-    <category>Series</category>
-    <category>default</category>
-  </programme>
-  <programme start="20260621030000 +0000" stop="20260621034800 +0000" channel="dsports.ar">
-    <title>Túnez vs. Japón</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260620234800 +0000" stop="20260621021500 +0000" channel="dsports.ar">
-    <title>Grupo E: Ecuador vs. Curazao</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450024/images/IMG-60B775BD-FE49-4187-B134-27C9BA171E08.jpeg" />
-  </programme>
-  <programme start="20260620223000 +0000" stop="20260620230000 +0000" channel="dsports.ar">
-    <title>Mundial Total</title>
-    <category>Special</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010642760000/images/IMG-9244D322-4ACA-4AD5-AC08-AFEADEBD601C.jpeg" />
-  </programme>
-  <programme start="20260621083000 +0000" stop="20260621090000 +0000" channel="dsports.ar">
-    <title>Copa Mundial de la FIFA 2026: Brasil vs. Haití</title>
-    <category>Series</category>
-    <category>default</category>
-  </programme>
-  <programme start="20260621034800 +0000" stop="20260621061500 +0000" channel="dsports.ar">
-    <title>Túnez vs. Japón</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260620221500 +0000" stop="20260620223000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
   </programme>
   <programme start="20260621150000 +0000" stop="20260621154800 +0000" channel="dsports.ar">
     <title>España vs. Arabia Saudita</title>
@@ -656,6 +321,11 @@
     <category>Series</category>
     <category>Soccer</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450023/images/IMG-031A87DD-1006-42F2-9B11-B743351D9A57.jpeg" />
+  </programme>
+  <programme start="20260621083000 +0000" stop="20260621090000 +0000" channel="dsports.ar">
+    <title>Copa Mundial de la FIFA 2026: Brasil vs. Haití</title>
+    <category>Series</category>
+    <category>default</category>
   </programme>
   <programme start="20260621140000 +0000" stop="20260621150000 +0000" channel="dsports.ar">
     <title>Fútbol Total</title>
@@ -744,16 +414,6 @@
     <category>Talk</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
   </programme>
-  <programme start="20260621210000 +0000" stop="20260621214800 +0000" channel="dsports.ar">
-    <title>Uruguay vs. Cabo Verde</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260621210000 +0000" stop="20260621214800 +0000" channel="dsports.ar">
-    <title>Uruguay vs. Cabo Verde</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
   <programme start="20260621123000 +0000" stop="20260621130000 +0000" channel="dsports.ar">
     <title>Copa Mundial de la FIFA 2026: Ecuador vs. Curazao</title>
     <category>Series</category>
@@ -792,11 +452,6 @@
     <category>Series</category>
     <category>Gen. Interest</category>
   </programme>
-  <programme start="20260621210000 +0000" stop="20260621214800 +0000" channel="dsports.ar">
-    <title>Uruguay vs. Cabo Verde</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
   <programme start="20260621120000 +0000" stop="20260621123000 +0000" channel="dsports.ar">
     <title>Copa Mundial de la FIFA 2026: Alemania vs. Costa de Marfil</title>
     <category>Series</category>
@@ -813,6 +468,11 @@
     <category>Series</category>
     <category>Soccer</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450023/images/IMG-031A87DD-1006-42F2-9B11-B743351D9A57.jpeg" />
+  </programme>
+  <programme start="20260621083000 +0000" stop="20260621090000 +0000" channel="dsports.ar">
+    <title>Copa Mundial de la FIFA 2026: Brasil vs. Haití</title>
+    <category>Series</category>
+    <category>default</category>
   </programme>
   <programme start="20260621140000 +0000" stop="20260621150000 +0000" channel="dsports.ar">
     <title>Fútbol Total</title>
@@ -831,6 +491,11 @@
     <category>Series</category>
     <category>Talk</category>
   </programme>
+  <programme start="20260621083000 +0000" stop="20260621090000 +0000" channel="dsports.ar">
+    <title>Copa Mundial de la FIFA 2026: Brasil vs. Haití</title>
+    <category>Series</category>
+    <category>default</category>
+  </programme>
   <programme start="20260621090000 +0000" stop="20260621100000 +0000" channel="dsports.ar">
     <title>DSPORTS Noticias Nite</title>
     <category>Series</category>
@@ -903,11 +568,6 @@
     <category>Series</category>
     <category>default</category>
   </programme>
-  <programme start="20260622113000 +0000" stop="20260622120000 +0000" channel="dsports.ar">
-    <title>Copa Mundial de la FIFA 2026: Uruguay vs. Cabo Verde</title>
-    <category>Series</category>
-    <category>default</category>
-  </programme>
   <programme start="20260622050000 +0000" stop="20260622053000 +0000" channel="dsports.ar">
     <title>Copa Mundial de la FIFA 2026: Estados Unidos vs. Australia</title>
     <category>Series</category>
@@ -918,10 +578,15 @@
     <category>Series</category>
     <category>default</category>
   </programme>
-  <programme start="20260622113000 +0000" stop="20260622120000 +0000" channel="dsports.ar">
-    <title>Copa Mundial de la FIFA 2026: Uruguay vs. Cabo Verde</title>
+  <programme start="20260621210000 +0000" stop="20260621214800 +0000" channel="dsports.ar">
+    <title>Uruguay vs. Cabo Verde</title>
     <category>Series</category>
-    <category>default</category>
+    <category>Talk</category>
+  </programme>
+  <programme start="20260621210000 +0000" stop="20260621214800 +0000" channel="dsports.ar">
+    <title>Uruguay vs. Cabo Verde</title>
+    <category>Series</category>
+    <category>Talk</category>
   </programme>
   <programme start="20260622001500 +0000" stop="20260622004800 +0000" channel="dsports.ar">
     <title>Nueva Zelanda vs. Egipto</title>
@@ -943,11 +608,6 @@
     <category>Series</category>
     <category>Talk</category>
   </programme>
-  <programme start="20260622113000 +0000" stop="20260622120000 +0000" channel="dsports.ar">
-    <title>Copa Mundial de la FIFA 2026: Uruguay vs. Cabo Verde</title>
-    <category>Series</category>
-    <category>default</category>
-  </programme>
   <programme start="20260622004800 +0000" stop="20260622031500 +0000" channel="dsports.ar">
     <title>Nueva Zelanda vs. Egipto</title>
     <category>Series</category>
@@ -964,13 +624,13 @@
     <category>Soccer</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450023/images/IMG-031A87DD-1006-42F2-9B11-B743351D9A57.jpeg" />
   </programme>
+  <programme start="20260621210000 +0000" stop="20260621214800 +0000" channel="dsports.ar">
+    <title>Uruguay vs. Cabo Verde</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
   <programme start="20260622053000 +0000" stop="20260622060000 +0000" channel="dsports.ar">
     <title>Copa Mundial de la FIFA 2026: Brasil vs. Haití</title>
-    <category>Series</category>
-    <category>default</category>
-  </programme>
-  <programme start="20260622110000 +0000" stop="20260622113000 +0000" channel="dsports.ar">
-    <title>Copa Mundial de la FIFA 2026: España vs. Arabia Saudita</title>
     <category>Series</category>
     <category>default</category>
   </programme>
@@ -1025,223 +685,447 @@
     <category>Series</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260622234800 +0000" stop="20260623021500 +0000" channel="dsports.ar">
-    <title>Noruega vs. Senegal</title>
+  <programme start="20260622110000 +0000" stop="20260622113000 +0000" channel="dsports.ar">
+    <title>Copa Mundial de la FIFA 2026: España vs. Arabia Saudita</title>
     <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450039/images/IMG-638C2F0B-ED90-4728-B923-1669D35080F2.jpeg" />
-  </programme>
-  <programme start="20260622164800 +0000" stop="20260622191500 +0000" channel="dsports.ar">
-    <title>Argentina vs. Austria</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260622120000 +0000" stop="20260622133000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Lite</title>
-    <category>Series</category>
-    <category>Gen. Interest</category>
-  </programme>
-  <programme start="20260622231500 +0000" stop="20260622234800 +0000" channel="dsports.ar">
-    <title>Noruega vs. Senegal</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260622191500 +0000" stop="20260622200000 +0000" channel="dsports.ar">
-    <title>Argentina vs. Austria</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260622234800 +0000" stop="20260623021500 +0000" channel="dsports.ar">
-    <title>Noruega vs. Senegal</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450039/images/IMG-638C2F0B-ED90-4728-B923-1669D35080F2.jpeg" />
-  </programme>
-  <programme start="20260622133000 +0000" stop="20260622150000 +0000" channel="dsports.ar">
-    <title>Fútbol Total</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010081750000/images/IMG-C50134D7-44BA-46F2-83E3-3B9DA1459944.jpeg" />
-  </programme>
-  <programme start="20260622164800 +0000" stop="20260622191500 +0000" channel="dsports.ar">
-    <title>Argentina vs. Austria</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260622191500 +0000" stop="20260622200000 +0000" channel="dsports.ar">
-    <title>Argentina vs. Austria</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260622150000 +0000" stop="20260622164800 +0000" channel="dsports.ar">
-    <title>Argentina vs. Austria</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260622120000 +0000" stop="20260622133000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Lite</title>
-    <category>Series</category>
-    <category>Gen. Interest</category>
-  </programme>
-  <programme start="20260622120000 +0000" stop="20260622133000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Lite</title>
-    <category>Series</category>
-    <category>Gen. Interest</category>
-  </programme>
-  <programme start="20260622164800 +0000" stop="20260622191500 +0000" channel="dsports.ar">
-    <title>Argentina vs. Austria</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260622150000 +0000" stop="20260622164800 +0000" channel="dsports.ar">
-    <title>Argentina vs. Austria</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260622200000 +0000" stop="20260622204800 +0000" channel="dsports.ar">
-    <title>Francia vs. Irak</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260622191500 +0000" stop="20260622200000 +0000" channel="dsports.ar">
-    <title>Argentina vs. Austria</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260622231500 +0000" stop="20260622234800 +0000" channel="dsports.ar">
-    <title>Noruega vs. Senegal</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260622204800 +0000" stop="20260622231500 +0000" channel="dsports.ar">
-    <title>Francia vs. Irak</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260622200000 +0000" stop="20260622204800 +0000" channel="dsports.ar">
-    <title>Francia vs. Irak</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260622200000 +0000" stop="20260622204800 +0000" channel="dsports.ar">
-    <title>Francia vs. Irak</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260622204800 +0000" stop="20260622231500 +0000" channel="dsports.ar">
-    <title>Francia vs. Irak</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260622231500 +0000" stop="20260622234800 +0000" channel="dsports.ar">
-    <title>Noruega vs. Senegal</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260622234800 +0000" stop="20260623021500 +0000" channel="dsports.ar">
-    <title>Noruega vs. Senegal</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450039/images/IMG-638C2F0B-ED90-4728-B923-1669D35080F2.jpeg" />
-  </programme>
-  <programme start="20260622133000 +0000" stop="20260622150000 +0000" channel="dsports.ar">
-    <title>Fútbol Total</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010081750000/images/IMG-C50134D7-44BA-46F2-83E3-3B9DA1459944.jpeg" />
-  </programme>
-  <programme start="20260622204800 +0000" stop="20260622231500 +0000" channel="dsports.ar">
-    <title>Francia vs. Irak</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260622150000 +0000" stop="20260622164800 +0000" channel="dsports.ar">
-    <title>Argentina vs. Austria</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260622133000 +0000" stop="20260622150000 +0000" channel="dsports.ar">
-    <title>Fútbol Total</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010081750000/images/IMG-C50134D7-44BA-46F2-83E3-3B9DA1459944.jpeg" />
-  </programme>
-  <programme start="20260620123000 +0000" stop="20260620143000 +0000" channel="dsports2.ar">
-    <title>Escocia vs. Marruecos</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450012/images/IMG-7EC4E03E-D546-44FD-BF49-22E7065B4CF6.jpeg" />
-  </programme>
-  <programme start="20260620050000 +0000" stop="20260620070000 +0000" channel="dsports2.ar">
-    <title>QV4</title>
     <category>default</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010668810000/images/IMG-F453B26E-23D4-414C-80CE-BB681499A0D4.jpeg" />
   </programme>
-  <programme start="20260620110000 +0000" stop="20260620123000 +0000" channel="dsports2.ar">
+  <programme start="20260622234800 +0000" stop="20260623021500 +0000" channel="dsports.ar">
+    <title>Noruega vs. Senegal</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450039/images/IMG-638C2F0B-ED90-4728-B923-1669D35080F2.jpeg" />
+  </programme>
+  <programme start="20260622164800 +0000" stop="20260622191500 +0000" channel="dsports.ar">
+    <title>Argentina vs. Austria</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260622120000 +0000" stop="20260622133000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Lite</title>
+    <category>Series</category>
+    <category>Gen. Interest</category>
+  </programme>
+  <programme start="20260622231500 +0000" stop="20260622234800 +0000" channel="dsports.ar">
+    <title>Noruega vs. Senegal</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
+  <programme start="20260623021500 +0000" stop="20260623024800 +0000" channel="dsports.ar">
+    <title>Jordania vs. Argelia</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
+  <programme start="20260622191500 +0000" stop="20260622200000 +0000" channel="dsports.ar">
+    <title>Argentina vs. Austria</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
+  <programme start="20260622234800 +0000" stop="20260623021500 +0000" channel="dsports.ar">
+    <title>Noruega vs. Senegal</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450039/images/IMG-638C2F0B-ED90-4728-B923-1669D35080F2.jpeg" />
+  </programme>
+  <programme start="20260622133000 +0000" stop="20260622150000 +0000" channel="dsports.ar">
+    <title>Fútbol Total</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010081750000/images/IMG-C50134D7-44BA-46F2-83E3-3B9DA1459944.jpeg" />
+  </programme>
+  <programme start="20260623024800 +0000" stop="20260623051500 +0000" channel="dsports.ar">
+    <title>Jordania vs. Argelia</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450049/images/IMG-ACFDD768-DAFC-4F66-998F-DAC80C2FCEF2.jpeg" />
+  </programme>
+  <programme start="20260622164800 +0000" stop="20260622191500 +0000" channel="dsports.ar">
+    <title>Argentina vs. Austria</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260623021500 +0000" stop="20260623024800 +0000" channel="dsports.ar">
+    <title>Jordania vs. Argelia</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
+  <programme start="20260622113000 +0000" stop="20260622120000 +0000" channel="dsports.ar">
+    <title>Copa Mundial de la FIFA 2026: Uruguay vs. Cabo Verde</title>
+    <category>Series</category>
+    <category>default</category>
+  </programme>
+  <programme start="20260622191500 +0000" stop="20260622200000 +0000" channel="dsports.ar">
+    <title>Argentina vs. Austria</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
+  <programme start="20260622150000 +0000" stop="20260622164800 +0000" channel="dsports.ar">
+    <title>Argentina vs. Austria</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
+  <programme start="20260622113000 +0000" stop="20260622120000 +0000" channel="dsports.ar">
+    <title>Copa Mundial de la FIFA 2026: Uruguay vs. Cabo Verde</title>
+    <category>Series</category>
+    <category>default</category>
+  </programme>
+  <programme start="20260622120000 +0000" stop="20260622133000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Lite</title>
+    <category>Series</category>
+    <category>Gen. Interest</category>
+  </programme>
+  <programme start="20260622120000 +0000" stop="20260622133000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Lite</title>
+    <category>Series</category>
+    <category>Gen. Interest</category>
+  </programme>
+  <programme start="20260622164800 +0000" stop="20260622191500 +0000" channel="dsports.ar">
+    <title>Argentina vs. Austria</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260622150000 +0000" stop="20260622164800 +0000" channel="dsports.ar">
+    <title>Argentina vs. Austria</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
+  <programme start="20260622200000 +0000" stop="20260622204800 +0000" channel="dsports.ar">
+    <title>Francia vs. Irak</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
+  <programme start="20260622113000 +0000" stop="20260622120000 +0000" channel="dsports.ar">
+    <title>Copa Mundial de la FIFA 2026: Uruguay vs. Cabo Verde</title>
+    <category>Series</category>
+    <category>default</category>
+  </programme>
+  <programme start="20260622191500 +0000" stop="20260622200000 +0000" channel="dsports.ar">
+    <title>Argentina vs. Austria</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
+  <programme start="20260622231500 +0000" stop="20260622234800 +0000" channel="dsports.ar">
+    <title>Noruega vs. Senegal</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
+  <programme start="20260622204800 +0000" stop="20260622231500 +0000" channel="dsports.ar">
+    <title>Francia vs. Irak</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260622200000 +0000" stop="20260622204800 +0000" channel="dsports.ar">
+    <title>Francia vs. Irak</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
+  <programme start="20260622200000 +0000" stop="20260622204800 +0000" channel="dsports.ar">
+    <title>Francia vs. Irak</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
+  <programme start="20260623024800 +0000" stop="20260623051500 +0000" channel="dsports.ar">
+    <title>Jordania vs. Argelia</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450049/images/IMG-ACFDD768-DAFC-4F66-998F-DAC80C2FCEF2.jpeg" />
+  </programme>
+  <programme start="20260622204800 +0000" stop="20260622231500 +0000" channel="dsports.ar">
+    <title>Francia vs. Irak</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260622231500 +0000" stop="20260622234800 +0000" channel="dsports.ar">
+    <title>Noruega vs. Senegal</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
+  <programme start="20260622234800 +0000" stop="20260623021500 +0000" channel="dsports.ar">
+    <title>Noruega vs. Senegal</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450039/images/IMG-638C2F0B-ED90-4728-B923-1669D35080F2.jpeg" />
+  </programme>
+  <programme start="20260622133000 +0000" stop="20260622150000 +0000" channel="dsports.ar">
+    <title>Fútbol Total</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010081750000/images/IMG-C50134D7-44BA-46F2-83E3-3B9DA1459944.jpeg" />
+  </programme>
+  <programme start="20260622204800 +0000" stop="20260622231500 +0000" channel="dsports.ar">
+    <title>Francia vs. Irak</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260623024800 +0000" stop="20260623051500 +0000" channel="dsports.ar">
+    <title>Jordania vs. Argelia</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450049/images/IMG-ACFDD768-DAFC-4F66-998F-DAC80C2FCEF2.jpeg" />
+  </programme>
+  <programme start="20260622150000 +0000" stop="20260622164800 +0000" channel="dsports.ar">
+    <title>Argentina vs. Austria</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
+  <programme start="20260623021500 +0000" stop="20260623024800 +0000" channel="dsports.ar">
+    <title>Jordania vs. Argelia</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
+  <programme start="20260622133000 +0000" stop="20260622150000 +0000" channel="dsports.ar">
+    <title>Fútbol Total</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010081750000/images/IMG-C50134D7-44BA-46F2-83E3-3B9DA1459944.jpeg" />
+  </programme>
+  <programme start="20260623051500 +0000" stop="20260623070000 +0000" channel="dsports.ar">
+    <title>Francia vs. Irak</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260623051500 +0000" stop="20260623070000 +0000" channel="dsports.ar">
+    <title>Francia vs. Irak</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260623194800 +0000" stop="20260623220000 +0000" channel="dsports.ar">
+    <title>Inglaterra vs. Ghana</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260623190000 +0000" stop="20260623194800 +0000" channel="dsports.ar">
+    <title>Inglaterra vs. Ghana</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
+  <programme start="20260623090000 +0000" stop="20260623100000 +0000" channel="dsports.ar">
     <title>DSPORTS Noticias Nite</title>
     <category>Series</category>
     <category>Talk</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-B04CEB78-4222-4DD9-85B5-3F594B41C098.jpeg" />
   </programme>
-  <programme start="20260620090000 +0000" stop="20260620110000 +0000" channel="dsports2.ar">
-    <title>Turquía vs. Paraguay</title>
+  <programme start="20260623164800 +0000" stop="20260623190000 +0000" channel="dsports.ar">
+    <title>Grupo K: Portugal vs. Uzbekistán</title>
     <category>Series</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260620043000 +0000" stop="20260620050000 +0000" channel="dsports2.ar">
-    <title>Copa Mundial: Canadá vs. Catar</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260620070000 +0000" stop="20260620090000 +0000" channel="dsports2.ar">
-    <title>Mundo Mundial</title>
-    <category>Talk</category>
-    <category>default</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010667020000/images/IMG-B6BC93E5-650A-414F-9C9A-F6B5B1DC5BC3.jpeg" />
-  </programme>
-  <programme start="20260620143000 +0000" stop="20260620150000 +0000" channel="dsports2.ar">
-    <title>Copa Mundial: Uzbekistán vs. Colombia</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260622073000 +0000" stop="20260622080000 +0000" channel="dsports2.ar">
-    <title>Copa Mundial de la FIFA 2026: Ecuador vs. Curazao</title>
+  <programme start="20260623120000 +0000" stop="20260623123000 +0000" channel="dsports.ar">
+    <title>Copa Mundial de la FIFA 2026: Francia vs. Irak</title>
     <category>Series</category>
     <category>default</category>
   </programme>
-  <programme start="20260621210000 +0000" stop="20260622000000 +0000" channel="dsports2.ar">
-    <title>DSPORTS Noticias</title>
+  <programme start="20260623051500 +0000" stop="20260623070000 +0000" channel="dsports.ar">
+    <title>Francia vs. Irak</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260623070000 +0000" stop="20260623090000 +0000" channel="dsports.ar">
+    <title>Argentina vs. Austria</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260623190000 +0000" stop="20260623194800 +0000" channel="dsports.ar">
+    <title>Inglaterra vs. Ghana</title>
     <category>Series</category>
     <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
   </programme>
-  <programme start="20260622070000 +0000" stop="20260622073000 +0000" channel="dsports2.ar">
-    <title>Copa Mundial de la FIFA 2026: Alemania vs. Costa de Marfil</title>
+  <programme start="20260623090000 +0000" stop="20260623100000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Nite</title>
+    <category>Series</category>
+    <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-B04CEB78-4222-4DD9-85B5-3F594B41C098.jpeg" />
+  </programme>
+  <programme start="20260623100000 +0000" stop="20260623120000 +0000" channel="dsports.ar">
+    <title>Argentina vs. Austria</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260623123000 +0000" stop="20260623130000 +0000" channel="dsports.ar">
+    <title>Copa Mundial de la FIFA 2026: Argentina vs. Austria</title>
     <category>Series</category>
     <category>default</category>
   </programme>
-  <programme start="20260621120000 +0000" stop="20260621123000 +0000" channel="dsports2.ar">
-    <title>Copa Mundial de la FIFA 2026: Estados Unidos vs. Australia</title>
+  <programme start="20260623143000 +0000" stop="20260623160000 +0000" channel="dsports.ar">
+    <title>Fútbol Total</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010081750000/images/IMG-C50134D7-44BA-46F2-83E3-3B9DA1459944.jpeg" />
+  </programme>
+  <programme start="20260623160000 +0000" stop="20260623164800 +0000" channel="dsports.ar">
+    <title>Portugal vs. Uzbekistán</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
+  <programme start="20260623130000 +0000" stop="20260623143000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Lite</title>
+    <category>Series</category>
+    <category>Gen. Interest</category>
+  </programme>
+  <programme start="20260623070000 +0000" stop="20260623090000 +0000" channel="dsports.ar">
+    <title>Argentina vs. Austria</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260623160000 +0000" stop="20260623164800 +0000" channel="dsports.ar">
+    <title>Portugal vs. Uzbekistán</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
+  <programme start="20260623130000 +0000" stop="20260623143000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Lite</title>
+    <category>Series</category>
+    <category>Gen. Interest</category>
+  </programme>
+  <programme start="20260623190000 +0000" stop="20260623194800 +0000" channel="dsports.ar">
+    <title>Inglaterra vs. Ghana</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
+  <programme start="20260623123000 +0000" stop="20260623130000 +0000" channel="dsports.ar">
+    <title>Copa Mundial de la FIFA 2026: Argentina vs. Austria</title>
     <category>Series</category>
     <category>default</category>
   </programme>
-  <programme start="20260622010000 +0000" stop="20260622020000 +0000" channel="dsports2.ar">
+  <programme start="20260623194800 +0000" stop="20260623220000 +0000" channel="dsports.ar">
+    <title>Inglaterra vs. Ghana</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260623123000 +0000" stop="20260623130000 +0000" channel="dsports.ar">
+    <title>Copa Mundial de la FIFA 2026: Argentina vs. Austria</title>
+    <category>Series</category>
+    <category>default</category>
+  </programme>
+  <programme start="20260623143000 +0000" stop="20260623160000 +0000" channel="dsports.ar">
+    <title>Fútbol Total</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010081750000/images/IMG-C50134D7-44BA-46F2-83E3-3B9DA1459944.jpeg" />
+  </programme>
+  <programme start="20260623143000 +0000" stop="20260623160000 +0000" channel="dsports.ar">
+    <title>Fútbol Total</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010081750000/images/IMG-C50134D7-44BA-46F2-83E3-3B9DA1459944.jpeg" />
+  </programme>
+  <programme start="20260623164800 +0000" stop="20260623190000 +0000" channel="dsports.ar">
+    <title>Grupo K: Portugal vs. Uzbekistán</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260623090000 +0000" stop="20260623100000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Nite</title>
+    <category>Series</category>
+    <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-B04CEB78-4222-4DD9-85B5-3F594B41C098.jpeg" />
+  </programme>
+  <programme start="20260623160000 +0000" stop="20260623164800 +0000" channel="dsports.ar">
+    <title>Portugal vs. Uzbekistán</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
+  <programme start="20260623100000 +0000" stop="20260623120000 +0000" channel="dsports.ar">
+    <title>Argentina vs. Austria</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260623100000 +0000" stop="20260623120000 +0000" channel="dsports.ar">
+    <title>Argentina vs. Austria</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260623120000 +0000" stop="20260623123000 +0000" channel="dsports.ar">
+    <title>Copa Mundial de la FIFA 2026: Francia vs. Irak</title>
+    <category>Series</category>
+    <category>default</category>
+  </programme>
+  <programme start="20260623164800 +0000" stop="20260623190000 +0000" channel="dsports.ar">
+    <title>Grupo K: Portugal vs. Uzbekistán</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260623120000 +0000" stop="20260623123000 +0000" channel="dsports.ar">
+    <title>Copa Mundial de la FIFA 2026: Francia vs. Irak</title>
+    <category>Series</category>
+    <category>default</category>
+  </programme>
+  <programme start="20260623070000 +0000" stop="20260623090000 +0000" channel="dsports.ar">
+    <title>Argentina vs. Austria</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260623130000 +0000" stop="20260623143000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Lite</title>
+    <category>Series</category>
+    <category>Gen. Interest</category>
+  </programme>
+  <programme start="20260623230000 +0000" stop="20260624010000 +0000" channel="dsports.ar">
+    <title>De Fútbol Se Habla Así</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010360560000/images/IMG-32D2F0D0-F17F-4342-9CA1-FC35323870EA.jpeg" />
+  </programme>
+  <programme start="20260623220000 +0000" stop="20260623230000 +0000" channel="dsports.ar">
     <title>Puede pasar</title>
     <category>Talk</category>
     <category>default</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010269730000/images/IMG-9F939478-9855-499E-9FEE-BB7E89FD6657.jpeg" />
   </programme>
-  <programme start="20260620230000 +0000" stop="20260621020000 +0000" channel="dsports2.ar">
-    <title>DSPORTS Noticias</title>
+  <programme start="20260623230000 +0000" stop="20260624010000 +0000" channel="dsports.ar">
+    <title>De Fútbol Se Habla Así</title>
     <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010360560000/images/IMG-32D2F0D0-F17F-4342-9CA1-FC35323870EA.jpeg" />
   </programme>
-  <programme start="20260620170000 +0000" stop="20260620183000 +0000" channel="dsports2.ar">
-    <title>DSPORTS Noticias</title>
+  <programme start="20260623220000 +0000" stop="20260623230000 +0000" channel="dsports.ar">
+    <title>Puede pasar</title>
+    <category>Talk</category>
+    <category>default</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010269730000/images/IMG-9F939478-9855-499E-9FEE-BB7E89FD6657.jpeg" />
+  </programme>
+  <programme start="20260623220000 +0000" stop="20260623230000 +0000" channel="dsports.ar">
+    <title>Puede pasar</title>
+    <category>Talk</category>
+    <category>default</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010269730000/images/IMG-9F939478-9855-499E-9FEE-BB7E89FD6657.jpeg" />
+  </programme>
+  <programme start="20260623194800 +0000" stop="20260623220000 +0000" channel="dsports.ar">
+    <title>Inglaterra vs. Ghana</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260623230000 +0000" stop="20260624010000 +0000" channel="dsports.ar">
+    <title>De Fútbol Se Habla Así</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010360560000/images/IMG-32D2F0D0-F17F-4342-9CA1-FC35323870EA.jpeg" />
+  </programme>
+  <programme start="20260622000000 +0000" stop="20260622010000 +0000" channel="dsports2.ar">
+    <title>Uruguay vs. Cabo Verde</title>
     <category>Series</category>
     <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
+  </programme>
+  <programme start="20260621180000 +0000" stop="20260621184800 +0000" channel="dsports2.ar">
+    <title>Bélgica vs. Irán</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
+  <programme start="20260621110000 +0000" stop="20260621130000 +0000" channel="dsports_motors.ar">
+    <title>Tour de Eslovenia</title>
+    <category>Series</category>
+    <category>Bicycle</category>
+  </programme>
+  <programme start="20260623210000 +0000" stop="20260624030000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260621120000 +0000" stop="20260621123000 +0000" channel="dsports2.ar">
+    <title>Copa Mundial de la FIFA 2026: Estados Unidos vs. Australia</title>
+    <category>Series</category>
+    <category>default</category>
   </programme>
   <programme start="20260621150000 +0000" stop="20260621180000 +0000" channel="dsports2.ar">
     <title>DSPORTS Noticias</title>
@@ -1249,39 +1133,11 @@
     <category>Talk</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
   </programme>
-  <programme start="20260621030000 +0000" stop="20260621040000 +0000" channel="dsports2.ar">
-    <title>DSPORTS Noticias Nite</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-B04CEB78-4222-4DD9-85B5-3F594B41C098.jpeg" />
-  </programme>
-  <programme start="20260620200000 +0000" stop="20260620220000 +0000" channel="dsports2.ar">
-    <title>De Fútbol Se Habla Así</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010360560000/images/IMG-32D2F0D0-F17F-4342-9CA1-FC35323870EA.jpeg" />
-  </programme>
-  <programme start="20260622200000 +0000" stop="20260622220000 +0000" channel="dsports2.ar">
-    <title>De Fútbol Se Habla Así</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010360560000/images/IMG-32D2F0D0-F17F-4342-9CA1-FC35323870EA.jpeg" />
-  </programme>
-  <programme start="20260620220000 +0000" stop="20260620230000 +0000" channel="dsports2.ar">
-    <title>Alemania vs. Costa de Marfil</title>
-    <category>Series</category>
-    <category>Talk</category>
-  </programme>
   <programme start="20260621080000 +0000" stop="20260621100000 +0000" channel="dsports2.ar">
     <title>Mundo Mundial</title>
     <category>Talk</category>
     <category>default</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010667020000/images/IMG-B6BC93E5-650A-414F-9C9A-F6B5B1DC5BC3.jpeg" />
-  </programme>
-  <programme start="20260622163000 +0000" stop="20260622170000 +0000" channel="dsports2.ar">
-    <title>Copa Mundial de la FIFA 2026: Uruguay vs. Cabo Verde</title>
-    <category>Series</category>
-    <category>default</category>
   </programme>
   <programme start="20260621130000 +0000" stop="20260621150000 +0000" channel="dsports2.ar">
     <title>Grupo E: Ecuador vs. Curazao</title>
@@ -1289,53 +1145,12 @@
     <category>Soccer</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450024/images/IMG-60B775BD-FE49-4187-B134-27C9BA171E08.jpeg" />
   </programme>
-  <programme start="20260622220000 +0000" stop="20260623010000 +0000" channel="dsports2.ar">
-    <title>DSPORTS Noticias Lite Tarde</title>
-    <category>Talk</category>
-    <category>Gen. Interest</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010635610000/images/IMG-DD135E46-6BF4-44B3-B4BA-8D5D76CD539F.jpeg" />
-  </programme>
-  <programme start="20260620183000 +0000" stop="20260620200000 +0000" channel="dsports2.ar">
-    <title>DSPORTS Noticias Lite Tarde</title>
-    <category>Talk</category>
-    <category>Gen. Interest</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010635610000/images/IMG-DD135E46-6BF4-44B3-B4BA-8D5D76CD539F.jpeg" />
-  </programme>
-  <programme start="20260621020000 +0000" stop="20260621030000 +0000" channel="dsports2.ar">
-    <title>Puede pasar</title>
-    <category>Talk</category>
-    <category>default</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010269730000/images/IMG-9F939478-9855-499E-9FEE-BB7E89FD6657.jpeg" />
-  </programme>
-  <programme start="20260622110000 +0000" stop="20260622120000 +0000" channel="dsports2.ar">
-    <title>DSPORTS Noticias Nite</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-B04CEB78-4222-4DD9-85B5-3F594B41C098.jpeg" />
-  </programme>
   <programme start="20260621060000 +0000" stop="20260621080000 +0000" channel="dsports2.ar">
     <title>QV4</title>
     <category>default</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010668810000/images/IMG-F453B26E-23D4-414C-80CE-BB681499A0D4.jpeg" />
   </programme>
-  <programme start="20260622170000 +0000" stop="20260622200000 +0000" channel="dsports2.ar">
-    <title>DSPORTS Noticias</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
-  </programme>
-  <programme start="20260620150000 +0000" stop="20260620170000 +0000" channel="dsports2.ar">
-    <title>Brasil vs. Haití</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260622143000 +0000" stop="20260622163000 +0000" channel="dsports2.ar">
-    <title>España vs. Arabia Saudita</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450023/images/IMG-031A87DD-1006-42F2-9B11-B743351D9A57.jpeg" />
-  </programme>
-  <programme start="20260621184800 +0000" stop="20260621210000 +0000" channel="dsports2.ar">
+  <programme start="20260621184800 +0000" stop="20260621211500 +0000" channel="dsports2.ar">
     <title>Bélgica vs. Irán</title>
     <category>Series</category>
     <category>Soccer</category>
@@ -1346,21 +1161,128 @@
     <category>Series</category>
     <category>Soccer</category>
   </programme>
+  <programme start="20260621123000 +0000" stop="20260621130000 +0000" channel="dsports2.ar">
+    <title>Copa Mundial de la FIFA 2026: Brasil vs. Haití</title>
+    <category>Series</category>
+    <category>default</category>
+  </programme>
+  <programme start="20260621211500 +0000" stop="20260622000000 +0000" channel="dsports2.ar">
+    <title>DSPORTS Noticias</title>
+    <category>Series</category>
+    <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
+  </programme>
+  <programme start="20260622070000 +0000" stop="20260622073000 +0000" channel="dsports2.ar">
+    <title>Copa Mundial de la FIFA 2026: Alemania vs. Costa de Marfil</title>
+    <category>Series</category>
+    <category>default</category>
+  </programme>
+  <programme start="20260622010000 +0000" stop="20260622020000 +0000" channel="dsports2.ar">
+    <title>Puede pasar</title>
+    <category>Talk</category>
+    <category>default</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010269730000/images/IMG-9F939478-9855-499E-9FEE-BB7E89FD6657.jpeg" />
+  </programme>
+  <programme start="20260622200000 +0000" stop="20260622220000 +0000" channel="dsports2.ar">
+    <title>De Fútbol Se Habla Así</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010360560000/images/IMG-32D2F0D0-F17F-4342-9CA1-FC35323870EA.jpeg" />
+  </programme>
+  <programme start="20260622073000 +0000" stop="20260622080000 +0000" channel="dsports2.ar">
+    <title>Copa Mundial de la FIFA 2026: Ecuador vs. Curazao</title>
+    <category>Series</category>
+    <category>default</category>
+  </programme>
+  <programme start="20260623150000 +0000" stop="20260623170000 +0000" channel="dsports2.ar">
+    <title>Argentina vs. Austria</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260622163000 +0000" stop="20260622170000 +0000" channel="dsports2.ar">
+    <title>Copa Mundial de la FIFA 2026: Uruguay vs. Cabo Verde</title>
+    <category>Series</category>
+    <category>default</category>
+  </programme>
+  <programme start="20260623224800 +0000" stop="20260624010000 +0000" channel="dsports2.ar">
+    <title>Mosaico WC FIFA 2026: Panamá vs. Croacia</title>
+    <category>Special</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010670900000/images/IMG-6017408B-B9BA-4329-911F-122D0D85875E.jpeg" />
+  </programme>
+  <programme start="20260623193000 +0000" stop="20260623220000 +0000" channel="dsports2.ar">
+    <title>DSPORTS Noticias Lite Tarde</title>
+    <category>Talk</category>
+    <category>Gen. Interest</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010635610000/images/IMG-DD135E46-6BF4-44B3-B4BA-8D5D76CD539F.jpeg" />
+  </programme>
+  <programme start="20260622220000 +0000" stop="20260623010000 +0000" channel="dsports2.ar">
+    <title>DSPORTS Noticias Lite Tarde</title>
+    <category>Talk</category>
+    <category>Gen. Interest</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010635610000/images/IMG-DD135E46-6BF4-44B3-B4BA-8D5D76CD539F.jpeg" />
+  </programme>
+  <programme start="20260622110000 +0000" stop="20260622120000 +0000" channel="dsports2.ar">
+    <title>DSPORTS Noticias Nite</title>
+    <category>Series</category>
+    <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-B04CEB78-4222-4DD9-85B5-3F594B41C098.jpeg" />
+  </programme>
+  <programme start="20260623050000 +0000" stop="20260623070000 +0000" channel="dsports2.ar">
+    <title>Uruguay vs. Cabo Verde</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260622170000 +0000" stop="20260622200000 +0000" channel="dsports2.ar">
+    <title>DSPORTS Noticias</title>
+    <category>Series</category>
+    <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
+  </programme>
+  <programme start="20260623030000 +0000" stop="20260623050000 +0000" channel="dsports2.ar">
+    <title>Argentina vs. Austria</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260622143000 +0000" stop="20260622163000 +0000" channel="dsports2.ar">
+    <title>España vs. Arabia Saudita</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450023/images/IMG-031A87DD-1006-42F2-9B11-B743351D9A57.jpeg" />
+  </programme>
+  <programme start="20260623140000 +0000" stop="20260623143000 +0000" channel="dsports2.ar">
+    <title>Copa Mundial de la FIFA 2026: Argentina vs. Austria</title>
+    <category>Series</category>
+    <category>default</category>
+  </programme>
+  <programme start="20260623090000 +0000" stop="20260623110000 +0000" channel="dsports2.ar">
+    <title>Noruega vs. Senegal</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450039/images/IMG-638C2F0B-ED90-4728-B923-1669D35080F2.jpeg" />
+  </programme>
+  <programme start="20260623020000 +0000" stop="20260623030000 +0000" channel="dsports2.ar">
+    <title>DSPORTS Noticias Nite</title>
+    <category>Series</category>
+    <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-B04CEB78-4222-4DD9-85B5-3F594B41C098.jpeg" />
+  </programme>
+  <programme start="20260623120000 +0000" stop="20260623140000 +0000" channel="dsports2.ar">
+    <title>Jordania vs. Argelia</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450049/images/IMG-ACFDD768-DAFC-4F66-998F-DAC80C2FCEF2.jpeg" />
+  </programme>
   <programme start="20260622080000 +0000" stop="20260622090000 +0000" channel="dsports2.ar">
     <title>DSPORTS Noticias Nite</title>
     <category>Series</category>
     <category>Talk</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-B04CEB78-4222-4DD9-85B5-3F594B41C098.jpeg" />
   </programme>
-  <programme start="20260621123000 +0000" stop="20260621130000 +0000" channel="dsports2.ar">
-    <title>Copa Mundial de la FIFA 2026: Brasil vs. Haití</title>
+  <programme start="20260623070000 +0000" stop="20260623090000 +0000" channel="dsports2.ar">
+    <title>Francia vs. Irak</title>
     <category>Series</category>
-    <category>default</category>
-  </programme>
-  <programme start="20260622000000 +0000" stop="20260622010000 +0000" channel="dsports2.ar">
-    <title>Uruguay vs. Cabo Verde</title>
-    <category>Series</category>
-    <category>Talk</category>
+    <category>Soccer</category>
   </programme>
   <programme start="20260622090000 +0000" stop="20260622110000 +0000" channel="dsports2.ar">
     <title>España vs. Arabia Saudita</title>
@@ -1380,21 +1302,32 @@
     <category>Soccer</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450025/images/IMG-D41D7BB6-15FE-43C3-88E6-81C0866731A7.jpeg" />
   </programme>
-  <programme start="20260621040000 +0000" stop="20260621060000 +0000" channel="dsports2.ar">
-    <title>Grupo E: Ecuador vs. Curazao</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010665450024/images/IMG-60B775BD-FE49-4187-B134-27C9BA171E08.jpeg" />
-  </programme>
-  <programme start="20260621180000 +0000" stop="20260621184800 +0000" channel="dsports2.ar">
-    <title>Bélgica vs. Irán</title>
+  <programme start="20260623170000 +0000" stop="20260623193000 +0000" channel="dsports2.ar">
+    <title>DSPORTS Noticias</title>
     <category>Series</category>
     <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
+  </programme>
+  <programme start="20260623143000 +0000" stop="20260623150000 +0000" channel="dsports2.ar">
+    <title>Copa Mundial de la FIFA 2026: Uruguay vs. Cabo Verde</title>
+    <category>Series</category>
+    <category>default</category>
+  </programme>
+  <programme start="20260623220000 +0000" stop="20260623224800 +0000" channel="dsports2.ar">
+    <title>DSPORTS Mundial</title>
+    <category>Talk</category>
+    <category>Soccer</category>
   </programme>
   <programme start="20260622120000 +0000" stop="20260622140000 +0000" channel="dsports2.ar">
     <title>Uruguay vs. Cabo Verde</title>
     <category>Series</category>
     <category>Soccer</category>
+  </programme>
+  <programme start="20260623110000 +0000" stop="20260623120000 +0000" channel="dsports2.ar">
+    <title>DSPORTS Noticias Nite</title>
+    <category>Series</category>
+    <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-B04CEB78-4222-4DD9-85B5-3F594B41C098.jpeg" />
   </programme>
   <programme start="20260622030000 +0000" stop="20260622050000 +0000" channel="dsports2.ar">
     <title>España vs. Arabia Saudita</title>
@@ -1406,6 +1339,47 @@
     <title>Copa Mundial de la FIFA 2026: Alemania vs. Costa de Marfil</title>
     <category>Series</category>
     <category>default</category>
+  </programme>
+  <programme start="20260623010000 +0000" stop="20260623020000 +0000" channel="dsports2.ar">
+    <title>Puede pasar</title>
+    <category>Talk</category>
+    <category>default</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010269730000/images/IMG-9F939478-9855-499E-9FEE-BB7E89FD6657.jpeg" />
+  </programme>
+  <programme start="20260623190000 +0000" stop="20260623210000 +0000" channel="1615">
+    <title>Stingray silk (canciones de amor)</title>
+    <category>Special</category>
+    <category>Music</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010399160000/images/IMG-ECBEC5FF-408B-454A-A0EB-66755E2EEF7B.jpeg" />
+  </programme>
+  <programme start="20260621220000 +0000" stop="20260622000000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Talk</category>
+    <category>default</category>
+  </programme>
+  <programme start="20260623030000 +0000" stop="20260623090000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260623210000 +0000" stop="20260624030000 +0000" channel="1615">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260623150000 +0000" stop="20260623190000 +0000" channel="1615">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260622000000 +0000" stop="20260622150000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
   <programme start="20260621090000 +0000" stop="20260621150000 +0000" channel="1615">
     <title>DSPORTS</title>
@@ -1419,37 +1393,23 @@
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260622090000 +0000" stop="20260622150000 +0000" channel="dsports_motors.ar">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260621193000 +0000" stop="20260622090000 +0000" channel="dsports_motors.ar">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260620230000 +0000" stop="20260620233000 +0000" channel="dsports_motors.ar">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260621130000 +0000" stop="20260621150000 +0000" channel="dsports_motors.ar">
-    <title>Ciclismo UCI ProSeries</title>
+  <programme start="20260621173000 +0000" stop="20260621194500 +0000" channel="dsports_motors.ar">
+    <title>Lenzerheide - Cross Country Masculino</title>
     <category>Series</category>
     <category>Bicycle</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010334660000/images/IMG-D2646F51-FA50-4C1C-A634-DCB386F363E3.jpeg" />
   </programme>
-  <programme start="20260621110000 +0000" stop="20260621130000 +0000" channel="dsports_motors.ar">
-    <title>Ciclismo UCI ProSeries</title>
+  <programme start="20260621194500 +0000" stop="20260621201500 +0000" channel="dsports_motors.ar">
+    <title>Serie Mundial Ciclismo de Montaña del UCI</title>
+    <category>Series</category>
+    <category>Motorcycle</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010661630000/images/IMG-30B2514B-4880-4EA7-9F3C-C508AFCAFC6B.jpeg" />
+  </programme>
+  <programme start="20260621130000 +0000" stop="20260621153000 +0000" channel="dsports_motors.ar">
+    <title>Baloise Belgium Tour, Stage 5</title>
     <category>Series</category>
     <category>Bicycle</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010334660000/images/IMG-D2646F51-FA50-4C1C-A634-DCB386F363E3.jpeg" />
   </programme>
-  <programme start="20260621030000 +0000" stop="20260621090000 +0000" channel="1615">
+  <programme start="20260623130000 +0000" stop="20260623150000 +0000" channel="dsports_motors.ar">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
@@ -1461,52 +1421,53 @@
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260622150000 +0000" stop="20260622210000 +0000" channel="dsports_motors.ar">
+  <programme start="20260623090000 +0000" stop="20260623150000 +0000" channel="1615">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260620154500 +0000" stop="20260620193000 +0000" channel="dsports_motors.ar">
-    <title>Lenzerheide: Finales de descenso masculino y femenino</title>
-    <category>Series</category>
-    <category>Motorcycle</category>
-  </programme>
-  <programme start="20260620221500 +0000" stop="20260620230000 +0000" channel="dsports_motors.ar">
+  <programme start="20260622150000 +0000" stop="20260622190000 +0000" channel="dsports_motors.ar">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260620210000 +0000" stop="20260621030000 +0000" channel="1615">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260620090000 +0000" stop="20260620110000 +0000" channel="dsports_motors.ar">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260620193000 +0000" stop="20260620221500 +0000" channel="dsports_motors.ar">
+  <programme start="20260623030000 +0000" stop="20260623090000 +0000" channel="1615">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
   <programme start="20260621093000 +0000" stop="20260621110000 +0000" channel="dsports_motors.ar">
-    <title>Ciclismo UCI Europe Tour</title>
+    <title>Giro de Italia Sub-23</title>
     <category>Series</category>
     <category>Bicycle</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010458930000/images/IMG-B3F8F473-3FB5-49A9-A15E-1BC2F4F23751.jpeg" />
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010669320000/images/IMG-6B7A7190-0C90-4A7F-ABF2-ADDD545F3C82.jpeg" />
   </programme>
   <programme start="20260621150000 +0000" stop="20260621210000 +0000" channel="1615">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260622190000 +0000" stop="20260622210000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260623090000 +0000" stop="20260623130000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260622190000 +0000" stop="20260622210000 +0000" channel="1615">
+    <title>Stingray silk (canciones de amor)</title>
+    <category>Special</category>
+    <category>Music</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010399160000/images/IMG-ECBEC5FF-408B-454A-A0EB-66755E2EEF7B.jpeg" />
   </programme>
   <programme start="20260622090000 +0000" stop="20260622150000 +0000" channel="1615">
     <title>DSPORTS</title>
@@ -1520,41 +1481,18 @@
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260620110000 +0000" stop="20260620154500 +0000" channel="dsports_motors.ar">
-    <title>Giro Next Gen etapa 7; Tour de Eslovenia etapa 4; Ruta de Occitania Etapa 3; La vuelta a Bélgica etapa 4</title>
-    <category>Series</category>
-    <category>Bicycle</category>
-  </programme>
-  <programme start="20260621150000 +0000" stop="20260621193000 +0000" channel="dsports_motors.ar">
+  <programme start="20260621153000 +0000" stop="20260621173000 +0000" channel="dsports_motors.ar">
     <title>Lenzerheide - Cross Country Masculino</title>
     <category>Series</category>
     <category>Bicycle</category>
   </programme>
-  <programme start="20260620233000 +0000" stop="20260621030000 +0000" channel="dsports_motors.ar">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260620090000 +0000" stop="20260620150000 +0000" channel="1615">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260620150000 +0000" stop="20260620210000 +0000" channel="1615">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260621030000 +0000" stop="20260621090000 +0000" channel="dsports_motors.ar">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
   <programme start="20260621090000 +0000" stop="20260621093000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260621201500 +0000" stop="20260621220000 +0000" channel="dsports_motors.ar">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
@@ -1566,13 +1504,30 @@
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260622150000 +0000" stop="20260622210000 +0000" channel="1615">
+  <programme start="20260623150000 +0000" stop="20260623210000 +0000" channel="dsports_motors.ar">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260620233000 +0000" stop="20260621000000 +0000" channel="1616">
+  <programme start="20260622150000 +0000" stop="20260622190000 +0000" channel="1615">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260621131500 +0000" stop="20260621153000 +0000" channel="1617">
+    <title>Longines Global Champions Tour, París: CSI 5</title>
+    <category>Series</category>
+    <category>Horse</category>
+  </programme>
+  <programme start="20260621153000 +0000" stop="20260621183000 +0000" channel="1617">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260623030000 +0000" stop="20260623090000 +0000" channel="1617">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
@@ -1584,11 +1539,11 @@
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260621000000 +0000" stop="20260621010000 +0000" channel="1616">
-    <title>Atlas, la otra pasión</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643890000/images/IMG-9497943E-2A1C-4073-B40D-A73071583212.jpeg" />
+  <programme start="20260623090000 +0000" stop="20260623150000 +0000" channel="1617">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
   <programme start="20260621130000 +0000" stop="20260621153000 +0000" channel="1616">
     <title>Alemania vs. Brasil</title>
@@ -1614,29 +1569,17 @@
     <category>Volleyball</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010235270192/images/IMG-AF98BDE9-BC8E-4282-9E0D-539757FC091B.jpeg" />
   </programme>
-  <programme start="20260621030000 +0000" stop="20260621090000 +0000" channel="1617">
+  <programme start="20260623090000 +0000" stop="20260623150000 +0000" channel="1616">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260620130000 +0000" stop="20260620153000 +0000" channel="1616">
-    <title>China vs. Brasil</title>
-    <category>Series</category>
-    <category>Volleyball</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010235270189/images/IMG-BD499E8C-6F46-4C90-900E-20FCC344CB85.jpeg" />
-  </programme>
-  <programme start="20260620090000 +0000" stop="20260620150000 +0000" channel="1617">
+  <programme start="20260623150000 +0000" stop="20260623210000 +0000" channel="1617">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260620100000 +0000" stop="20260620120000 +0000" channel="1616">
-    <title>Países Bajos vs. Polonia</title>
-    <category>Series</category>
-    <category>Volleyball</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010235270186/images/IMG-58EC6BB8-33B9-44ED-862B-E681443E862A.jpeg" />
   </programme>
   <programme start="20260621153000 +0000" stop="20260621163000 +0000" channel="1616">
     <title>DSPORTS</title>
@@ -1644,22 +1587,17 @@
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260620183000 +0000" stop="20260620203000 +0000" channel="1616">
-    <title>Ure Cure RC vs. Carlos Paz RC</title>
-    <category>Series</category>
-    <category>Rugby</category>
-  </programme>
   <programme start="20260621120000 +0000" stop="20260621130000 +0000" channel="1616">
     <title>Japón vs. Italia</title>
     <category>Series</category>
     <category>Volleyball</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010235270188/images/IMG-84A0B3C6-B90C-49D7-A335-5E3B6E20B770.jpeg" />
   </programme>
-  <programme start="20260620080000 +0000" stop="20260620100000 +0000" channel="1616">
-    <title>Estados Unidos vs. Italia</title>
-    <category>Series</category>
-    <category>Volleyball</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010235270178/images/IMG-955C6534-7ECF-41CF-91ED-24F99B3A3DCE.jpeg" />
+  <programme start="20260622090000 +0000" stop="20260622150000 +0000" channel="1617">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
   <programme start="20260621183000 +0000" stop="20260621193000 +0000" channel="1616">
     <title>DSPORTS</title>
@@ -1673,19 +1611,19 @@
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
+  <programme start="20260621183000 +0000" stop="20260622090000 +0000" channel="1617">
+    <title>World Aquatics de Natación Artística</title>
+    <category>Series</category>
+    <category>Swimming</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010518720000/images/IMG-49B06FC0-90B7-4BAA-97DD-7D9BA943B18C.jpeg" />
+  </programme>
   <programme start="20260621100000 +0000" stop="20260621120000 +0000" channel="1616">
     <title>Canadá vs. Polonia</title>
     <category>Series</category>
     <category>Volleyball</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010235270190/images/IMG-FCACB2FD-6AC0-4120-8FB7-B019B1DE0B67.jpeg" />
   </programme>
-  <programme start="20260621010000 +0000" stop="20260621040000 +0000" channel="1616">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260620150000 +0000" stop="20260620210000 +0000" channel="1617">
+  <programme start="20260623030000 +0000" stop="20260623090000 +0000" channel="1616">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
@@ -1695,6 +1633,18 @@
     <title>Toronto Súper Final: Final de rutina acrobática por equipos</title>
     <category>Series</category>
     <category>Swimming</category>
+  </programme>
+  <programme start="20260623210000 +0000" stop="20260624030000 +0000" channel="1616">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260623150000 +0000" stop="20260623210000 +0000" channel="1616">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
   <programme start="20260622090000 +0000" stop="20260622150000 +0000" channel="1616">
     <title>DSPORTS</title>
@@ -1714,29 +1664,11 @@
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260621040000 +0000" stop="20260621063000 +0000" channel="1616">
-    <title>Serbia vs. Estados Unidos</title>
-    <category>Series</category>
-    <category>Volleyball</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010235270187/images/IMG-6A44046F-1F14-46C9-A557-97BF43FA6167.jpeg" />
-  </programme>
-  <programme start="20260620210000 +0000" stop="20260621030000 +0000" channel="1617">
+  <programme start="20260622150000 +0000" stop="20260622210000 +0000" channel="1617">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260620153000 +0000" stop="20260620183000 +0000" channel="1616">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260620120000 +0000" stop="20260620130000 +0000" channel="1616">
-    <title>Japón vs. República Dominicana</title>
-    <category>Series</category>
-    <category>Volleyball</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010235270198/images/IMG-EBAB0A06-B074-4730-8CE0-5364A8BF3AED.jpeg" />
   </programme>
   <programme start="20260621090000 +0000" stop="20260621131500 +0000" channel="1617">
     <title>DSPORTS</title>
@@ -1744,41 +1676,13 @@
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260620203000 +0000" stop="20260620210000 +0000" channel="1616">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260620210000 +0000" stop="20260620233000 +0000" channel="1616">
-    <title>Toronto Súper Final: Dueto técnico femenino</title>
-    <category>Series</category>
-    <category>Swimming</category>
-  </programme>
-  <programme start="20260620090000 +0000" stop="20260620150000 +0000" channel="1618">
+  <programme start="20260622210000 +0000" stop="20260623030000 +0000" channel="1617">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
   <programme start="20260621150000 +0000" stop="20260621210000 +0000" channel="1618">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260621131500 +0000" stop="20260621153000 +0000" channel="1617">
-    <title>Longines Global Champions Tour, París: CSI 5</title>
-    <category>Series</category>
-    <category>Horse</category>
-  </programme>
-  <programme start="20260621153000 +0000" stop="20260621183000 +0000" channel="1617">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260620210000 +0000" stop="20260621030000 +0000" channel="1618">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
@@ -1796,25 +1700,31 @@
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
+  <programme start="20260623150000 +0000" stop="20260623210000 +0000" channel="1618">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260623210000 +0000" stop="20260624030000 +0000" channel="1617">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260623210000 +0000" stop="20260624030000 +0000" channel="1618">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
   <programme start="20260622090000 +0000" stop="20260622150000 +0000" channel="1618">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260620150000 +0000" stop="20260620210000 +0000" channel="1618">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260621030000 +0000" stop="20260621090000 +0000" channel="1618">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260622090000 +0000" stop="20260622150000 +0000" channel="1617">
+  <programme start="20260623030000 +0000" stop="20260623090000 +0000" channel="1618">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
@@ -1832,25 +1742,13 @@
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260621183000 +0000" stop="20260622090000 +0000" channel="1617">
-    <title>World Aquatics de Natación Artística</title>
-    <category>Series</category>
-    <category>Swimming</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010518720000/images/IMG-49B06FC0-90B7-4BAA-97DD-7D9BA943B18C.jpeg" />
-  </programme>
   <programme start="20260622150000 +0000" stop="20260622210000 +0000" channel="1618">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260622150000 +0000" stop="20260622210000 +0000" channel="1617">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260622210000 +0000" stop="20260623030000 +0000" channel="1617">
+  <programme start="20260623090000 +0000" stop="20260623150000 +0000" channel="1618">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
