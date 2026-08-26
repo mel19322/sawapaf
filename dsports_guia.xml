@@ -37,10 +37,10 @@
     <category>Series</category>
     <category>default</category>
   </programme>
-  <programme start="20260825190000 +0000" stop="20260825200000 +0000" channel="dsports_plus.ar">
-    <title>Paris: Nice 2026</title>
+  <programme start="20260827165000 +0000" stop="20260827183000 +0000" channel="dsports_plus.ar">
+    <title>Paraguay vs. Brasil</title>
     <category>Series</category>
-    <category>Bicycle</category>
+    <category>Beach Soccer</category>
   </programme>
   <programme start="20260826184500 +0000" stop="20260826190000 +0000" channel="dsports_plus.ar">
     <title>Jonah Lomu</title>
@@ -48,10 +48,21 @@
     <category>Talk</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010072210018/images/IMG-39FC4E27-986F-4FDF-8A91-7AF6CD17F4B9.jpeg" />
   </programme>
-  <programme start="20260825113000 +0000" stop="20260825133000 +0000" channel="dsports_plus.ar">
-    <title>Chile vs. Bahamas</title>
+  <programme start="20260827033000 +0000" stop="20260827040000 +0000" channel="dsports_plus.ar">
+    <title>2026 La Vuelta Highlights</title>
+    <category>Sports</category>
+    <category>Bicycle</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010687350000/images/IMG-7A5F18FC-8A13-4BBA-84C7-0ADF9B4FD507.jpeg" />
+  </programme>
+  <programme start="20260828013000 +0000" stop="20260828033000 +0000" channel="dsports_plus.ar">
+    <title>Panamá vs. Canadá</title>
     <category>Series</category>
     <category>Basketball</category>
+  </programme>
+  <programme start="20260827090000 +0000" stop="20260827131500 +0000" channel="dsports_plus.ar">
+    <title>Les Gets: Cross-country Pista Corta femenino y masculino; Renewi Tour: Etapa 5</title>
+    <category>Series</category>
+    <category>Bicycle</category>
   </programme>
   <programme start="20260826233000 +0000" stop="20260827000000 +0000" channel="dsports_plus.ar">
     <title>De ciclismo se habla así</title>
@@ -64,145 +75,6 @@
     <category>Series</category>
     <category>Basketball</category>
   </programme>
-  <programme start="20260826083000 +0000" stop="20260826090000 +0000" channel="dsports_plus.ar">
-    <title>2026 La Vuelta Highlights</title>
-    <category>Sports</category>
-    <category>Bicycle</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010687350000/images/IMG-7A5F18FC-8A13-4BBA-84C7-0ADF9B4FD507.jpeg" />
-  </programme>
-  <programme start="20260826000000 +0000" stop="20260826003000 +0000" channel="dsports_plus.ar">
-    <title>2026 La Vuelta Highlights</title>
-    <category>Sports</category>
-    <category>Bicycle</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010687350000/images/IMG-7A5F18FC-8A13-4BBA-84C7-0ADF9B4FD507.jpeg" />
-  </programme>
-  <programme start="20260825233000 +0000" stop="20260826000000 +0000" channel="dsports_plus.ar">
-    <title>De ciclismo se habla así</title>
-    <category>Series</category>
-    <category>Bicycle</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010076530000/images/IMG-7269828A-217D-45B0-ABF7-F71E22D3DDFA.jpeg" />
-  </programme>
-  <programme start="20260825080000 +0000" stop="20260825090000 +0000" channel="dsports_plus.ar">
-    <title>París - Roubaix</title>
-    <category>Series</category>
-    <category>Bicycle</category>
-  </programme>
-  <programme start="20260825143000 +0000" stop="20260825163000 +0000" channel="dsports_plus.ar">
-    <title>Santa Fe Rugby Club vs. Duendes RC</title>
-    <category>Series</category>
-    <category>Rugby</category>
-  </programme>
-  <programme start="20260825163000 +0000" stop="20260825183000 +0000" channel="dsports_plus.ar">
-    <title>Tala RC vs. La Tablada</title>
-    <category>Series</category>
-    <category>Rugby</category>
-  </programme>
-  <programme start="20260826140000 +0000" stop="20260826143000 +0000" channel="dsports_plus.ar">
-    <title>World's Strongest Man 2017</title>
-    <category>Sports</category>
-    <category>default</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010425350000/images/IMG-3488CC45-4391-4BFE-BACD-B608B4CF9758.jpeg" />
-  </programme>
-  <programme start="20260825183000 +0000" stop="20260825190000 +0000" channel="dsports_plus.ar">
-    <title>Yongpyong: Men's Elite</title>
-    <category>Series</category>
-    <category>Motorcycle</category>
-  </programme>
-  <programme start="20260826003000 +0000" stop="20260826053000 +0000" channel="dsports_plus.ar">
-    <title>PFL Tampa</title>
-    <category>Series</category>
-    <category>Martial Arts</category>
-  </programme>
-  <programme start="20260826200000 +0000" stop="20260826223000 +0000" channel="dsports_plus.ar">
-    <title>Sesi/Franca vs. Boca Juniors</title>
-    <category>Series</category>
-    <category>Basketball</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010092040253/images/IMG-5F9D7DED-F703-4139-B983-56ABCE68FC29.jpeg" />
-  </programme>
-  <programme start="20260826190000 +0000" stop="20260826200000 +0000" channel="dsports_plus.ar">
-    <title>Tour de Turquía</title>
-    <category>Series</category>
-    <category>Bicycle</category>
-  </programme>
-  <programme start="20260825223000 +0000" stop="20260825233000 +0000" channel="dsports_plus.ar">
-    <title>París - Roubaix</title>
-    <category>Series</category>
-    <category>Bicycle</category>
-  </programme>
-  <programme start="20260826090000 +0000" stop="20260826113000 +0000" channel="dsports_plus.ar">
-    <title>Final: Estados Unidos vs. Polonia</title>
-    <category>Series</category>
-    <category>Volleyball</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010075160253/images/IMG-FAA081FA-E1DB-425E-87D2-D0923D8010D6.jpeg" />
-  </programme>
-  <programme start="20260825133000 +0000" stop="20260825140000 +0000" channel="dsports_plus.ar">
-    <title>Pau Gasol</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010072210045/images/IMG-D6FF2CF5-B1C0-4E45-99E0-4C203DC6ED62.jpeg" />
-  </programme>
-  <programme start="20260826113000 +0000" stop="20260826140000 +0000" channel="dsports_plus.ar">
-    <title>Final: Türkiye vs. Brazil</title>
-    <category>Series</category>
-    <category>Volleyball</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010235270240/images/IMG-0C1D2579-2729-48B4-A6CC-0FD0A3BA43F9.jpeg" />
-  </programme>
-  <programme start="20260826143000 +0000" stop="20260826184500 +0000" channel="dsports_plus.ar">
-    <title>Les Gets: Cross-country Pista Corta femenino y masculino; Renewi Tour: Etapa 5</title>
-    <category>Series</category>
-    <category>Bicycle</category>
-  </programme>
-  <programme start="20260826053000 +0000" stop="20260826083000 +0000" channel="dsports_plus.ar">
-    <title>Power Slap</title>
-    <category>Series</category>
-    <category>default</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010538430000/images/IMG-08198B92-7A41-45E5-B224-BEE004775068.jpeg" />
-  </programme>
-  <programme start="20260827023000 +0000" stop="20260827030000 +0000" channel="dsports_plus.ar">
-    <title>Yongpyong: Men's Elite</title>
-    <category>Series</category>
-    <category>Motorcycle</category>
-  </programme>
-  <programme start="20260825090000 +0000" stop="20260825113000 +0000" channel="dsports_plus.ar">
-    <title>Final: Türkiye vs. Brazil</title>
-    <category>Series</category>
-    <category>Volleyball</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010235270240/images/IMG-0C1D2579-2729-48B4-A6CC-0FD0A3BA43F9.jpeg" />
-  </programme>
-  <programme start="20260825140000 +0000" stop="20260825143000 +0000" channel="dsports_plus.ar">
-    <title>World's Strongest Man 2017</title>
-    <category>Sports</category>
-    <category>default</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010425350000/images/IMG-3488CC45-4391-4BFE-BACD-B608B4CF9758.jpeg" />
-  </programme>
-  <programme start="20260827000000 +0000" stop="20260827003000 +0000" channel="dsports_plus.ar">
-    <title>2026 La Vuelta Highlights</title>
-    <category>Sports</category>
-    <category>Bicycle</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010687350000/images/IMG-7A5F18FC-8A13-4BBA-84C7-0ADF9B4FD507.jpeg" />
-  </programme>
-  <programme start="20260825200000 +0000" stop="20260825223000 +0000" channel="dsports_plus.ar">
-    <title>Final: Olympiacos Piraeus vs. Real Madrid</title>
-    <category>Series</category>
-    <category>Basketball</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026530598/images/IMG-2ADDE9B1-D3A8-4604-BCE6-8CB97A436B03.jpeg" />
-  </programme>
-  <programme start="20260827165000 +0000" stop="20260827183000 +0000" channel="dsports_plus.ar">
-    <title>Paraguay Sub-20 vs. Brasil Sub-20</title>
-    <category>Series</category>
-    <category>Beach Soccer</category>
-  </programme>
-  <programme start="20260827033000 +0000" stop="20260827040000 +0000" channel="dsports_plus.ar">
-    <title>2026 La Vuelta Highlights</title>
-    <category>Sports</category>
-    <category>Bicycle</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010687350000/images/IMG-7A5F18FC-8A13-4BBA-84C7-0ADF9B4FD507.jpeg" />
-  </programme>
-  <programme start="20260827090000 +0000" stop="20260827131500 +0000" channel="dsports_plus.ar">
-    <title>Les Gets: Cross-country Pista Corta femenino y masculino; Renewi Tour: Etapa 5</title>
-    <category>Series</category>
-    <category>Bicycle</category>
-  </programme>
   <programme start="20260827203000 +0000" stop="20260827210000 +0000" channel="dsports_plus.ar">
     <title>Gianluigi Buffon</title>
     <category>Series</category>
@@ -212,6 +84,18 @@
     <title>Manu Ginóbili: The last dance en la selección</title>
     <category>Series</category>
     <category>Mini-Series</category>
+  </programme>
+  <programme start="20260828000000 +0000" stop="20260828003000 +0000" channel="dsports_plus.ar">
+    <title>De ciclismo se habla así</title>
+    <category>Series</category>
+    <category>Bicycle</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010076530000/images/IMG-7269828A-217D-45B0-ABF7-F71E22D3DDFA.jpeg" />
+  </programme>
+  <programme start="20260826083000 +0000" stop="20260826090000 +0000" channel="dsports_plus.ar">
+    <title>2026 La Vuelta Highlights</title>
+    <category>Sports</category>
+    <category>Bicycle</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010687350000/images/IMG-7A5F18FC-8A13-4BBA-84C7-0ADF9B4FD507.jpeg" />
   </programme>
   <programme start="20260827143000 +0000" stop="20260827163000 +0000" channel="dsports_plus.ar">
     <title>Chile vs. Bahamas</title>
@@ -229,21 +113,61 @@
     <category>Series</category>
     <category>Martial Arts</category>
   </programme>
+  <programme start="20260828010000 +0000" stop="20260828013000 +0000" channel="dsports_plus.ar">
+    <title>Bill Russell</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
   <programme start="20260827220000 +0000" stop="20260828000000 +0000" channel="dsports_plus.ar">
     <title>Argentina vs. Puerto Rico</title>
     <category>Series</category>
     <category>Basketball</category>
   </programme>
   <programme start="20260827185000 +0000" stop="20260827203000 +0000" channel="dsports_plus.ar">
-    <title>Colombia Sub-20 vs. Venezuela Sub-20</title>
+    <title>Colombia vs. Venezuela</title>
     <category>Series</category>
     <category>Beach Soccer</category>
+  </programme>
+  <programme start="20260826140000 +0000" stop="20260826143000 +0000" channel="dsports_plus.ar">
+    <title>World's Strongest Man 2017</title>
+    <category>Sports</category>
+    <category>default</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010425350000/images/IMG-F4160762-5133-4520-A526-1CE06DD79409.jpeg" />
+  </programme>
+  <programme start="20260826200000 +0000" stop="20260826223000 +0000" channel="dsports_plus.ar">
+    <title>Sesi/Franca vs. Boca Juniors</title>
+    <category>Series</category>
+    <category>Basketball</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010092040253/images/IMG-5F9D7DED-F703-4139-B983-56ABCE68FC29.jpeg" />
+  </programme>
+  <programme start="20260828003000 +0000" stop="20260828010000 +0000" channel="dsports_plus.ar">
+    <title>2026 La Vuelta Highlights</title>
+    <category>Sports</category>
+    <category>Bicycle</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010687350000/images/IMG-7A5F18FC-8A13-4BBA-84C7-0ADF9B4FD507.jpeg" />
+  </programme>
+  <programme start="20260826190000 +0000" stop="20260826200000 +0000" channel="dsports_plus.ar">
+    <title>Tour de Turquía</title>
+    <category>Series</category>
+    <category>Bicycle</category>
   </programme>
   <programme start="20260827133000 +0000" stop="20260827143000 +0000" channel="dsports_plus.ar">
     <title>World's Strongest Man</title>
     <category>Series</category>
     <category>default</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010623950000/images/IMG-0FC94415-FA55-401A-BC3F-6002A3C537EB.jpeg" />
+  </programme>
+  <programme start="20260826090000 +0000" stop="20260826113000 +0000" channel="dsports_plus.ar">
+    <title>Final: Estados Unidos vs. Polonia</title>
+    <category>Series</category>
+    <category>Volleyball</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010075160253/images/IMG-8D3C8246-E7BD-4E71-B09F-D523BE8274BA.jpeg" />
+  </programme>
+  <programme start="20260826113000 +0000" stop="20260826140000 +0000" channel="dsports_plus.ar">
+    <title>Final: Türkiye vs. Brazil</title>
+    <category>Series</category>
+    <category>Volleyball</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010235270240/images/IMG-0C1D2579-2729-48B4-A6CC-0FD0A3BA43F9.jpeg" />
   </programme>
   <programme start="20260827131500 +0000" stop="20260827133000 +0000" channel="dsports_plus.ar">
     <title>Jonah Lomu</title>
@@ -261,425 +185,130 @@
     <category>Series</category>
     <category>Bicycle</category>
   </programme>
+  <programme start="20260826143000 +0000" stop="20260826184500 +0000" channel="dsports_plus.ar">
+    <title>Les Gets: Cross-country Pista Corta femenino y masculino; Renewi Tour: Etapa 5</title>
+    <category>Series</category>
+    <category>Bicycle</category>
+  </programme>
+  <programme start="20260826053000 +0000" stop="20260826083000 +0000" channel="dsports_plus.ar">
+    <title>Power Slap</title>
+    <category>Series</category>
+    <category>default</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010538430000/images/IMG-08198B92-7A41-45E5-B224-BEE004775068.jpeg" />
+  </programme>
+  <programme start="20260827023000 +0000" stop="20260827030000 +0000" channel="dsports_plus.ar">
+    <title>Yongpyong: Men's Elite</title>
+    <category>Series</category>
+    <category>Bicycle</category>
+  </programme>
   <programme start="20260827163000 +0000" stop="20260827165000 +0000" channel="dsports_plus.ar">
     <title>Simplemente Diego: El Pelusa de la Paternal</title>
     <category>Series</category>
     <category>Documentary</category>
   </programme>
-  <programme start="20260825130000 +0000" stop="20260825133000 +0000" channel="dsports.ar">
-    <title>Messi vs. Ronaldo, temporada 2009/2010</title>
+  <programme start="20260827000000 +0000" stop="20260827003000 +0000" channel="dsports_plus.ar">
+    <title>2026 La Vuelta Highlights</title>
+    <category>Sports</category>
+    <category>Bicycle</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010687350000/images/IMG-7A5F18FC-8A13-4BBA-84C7-0ADF9B4FD507.jpeg" />
+  </programme>
+  <programme start="20260828160000 +0000" stop="20260828163000 +0000" channel="dsports_plus.ar">
+    <title>Manu Ginóbili: The last dance en la selección</title>
     <category>Series</category>
     <category>Mini-Series</category>
   </programme>
-  <programme start="20260825133000 +0000" stop="20260825140000 +0000" channel="dsports.ar">
-    <title>LaLiga: Atlético de Madrid vs. Villarreal</title>
+  <programme start="20260828233000 +0000" stop="20260829000000 +0000" channel="dsports_plus.ar">
+    <title>De ciclismo se habla así</title>
     <category>Series</category>
-    <category>default</category>
+    <category>Bicycle</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010076530000/images/IMG-7269828A-217D-45B0-ABF7-F71E22D3DDFA.jpeg" />
   </programme>
-  <programme start="20260825053000 +0000" stop="20260825070000 +0000" channel="dsports.ar">
-    <title>Fútbol Total</title>
+  <programme start="20260828183000 +0000" stop="20260828190000 +0000" channel="dsports_plus.ar">
+    <title>Eschborn, Frankfurt</title>
     <category>Series</category>
-    <category>Soccer</category>
+    <category>Bicycle</category>
   </programme>
-  <programme start="20260825070000 +0000" stop="20260825090000 +0000" channel="dsports.ar">
-    <title>Málaga CF vs. Real Club Deportivo de A Coruña</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812684/images/IMG-8FAEE53A-E1F8-49B3-939F-AE7197355426.jpeg" />
-  </programme>
-  <programme start="20260825090000 +0000" stop="20260825110000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Nite</title>
+  <programme start="20260828133000 +0000" stop="20260828140000 +0000" channel="dsports_plus.ar">
+    <title>Bill Russell</title>
     <category>Series</category>
     <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
   </programme>
-  <programme start="20260825070000 +0000" stop="20260825090000 +0000" channel="dsports.ar">
-    <title>Málaga CF vs. Real Club Deportivo de A Coruña</title>
+  <programme start="20260828163000 +0000" stop="20260828183000 +0000" channel="dsports_plus.ar">
+    <title>Chile vs. Estados Unidos</title>
     <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812684/images/IMG-8FAEE53A-E1F8-49B3-939F-AE7197355426.jpeg" />
+    <category>Basketball</category>
   </programme>
-  <programme start="20260825130000 +0000" stop="20260825133000 +0000" channel="dsports.ar">
-    <title>Messi vs. Ronaldo, temporada 2009/2010</title>
-    <category>Series</category>
-    <category>Mini-Series</category>
-  </programme>
-  <programme start="20260825050000 +0000" stop="20260825053000 +0000" channel="dsports.ar">
-    <title>Laliga: Espanyol vs. Real Madrid</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260825050000 +0000" stop="20260825053000 +0000" channel="dsports.ar">
-    <title>Laliga: Espanyol vs. Real Madrid</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260825110000 +0000" stop="20260825130000 +0000" channel="dsports.ar">
-    <title>Elche vs. Barcelona</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812676/images/IMG-537228C1-BDAA-4E09-A3E7-0A60DDC50A01.jpeg" />
-  </programme>
-  <programme start="20260825090000 +0000" stop="20260825110000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Nite</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
-  </programme>
-  <programme start="20260825070000 +0000" stop="20260825090000 +0000" channel="dsports.ar">
-    <title>Málaga CF vs. Real Club Deportivo de A Coruña</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812684/images/IMG-8FAEE53A-E1F8-49B3-939F-AE7197355426.jpeg" />
-  </programme>
-  <programme start="20260825110000 +0000" stop="20260825130000 +0000" channel="dsports.ar">
-    <title>Elche vs. Barcelona</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812676/images/IMG-537228C1-BDAA-4E09-A3E7-0A60DDC50A01.jpeg" />
-  </programme>
-  <programme start="20260825053000 +0000" stop="20260825070000 +0000" channel="dsports.ar">
-    <title>Fútbol Total</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260825090000 +0000" stop="20260825110000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Nite</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
-  </programme>
-  <programme start="20260825110000 +0000" stop="20260825130000 +0000" channel="dsports.ar">
-    <title>Elche vs. Barcelona</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812676/images/IMG-537228C1-BDAA-4E09-A3E7-0A60DDC50A01.jpeg" />
-  </programme>
-  <programme start="20260825050000 +0000" stop="20260825053000 +0000" channel="dsports.ar">
-    <title>Laliga: Espanyol vs. Real Madrid</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260825110000 +0000" stop="20260825130000 +0000" channel="dsports.ar">
-    <title>Elche vs. Barcelona</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812676/images/IMG-537228C1-BDAA-4E09-A3E7-0A60DDC50A01.jpeg" />
-  </programme>
-  <programme start="20260825133000 +0000" stop="20260825140000 +0000" channel="dsports.ar">
-    <title>LaLiga: Atlético de Madrid vs. Villarreal</title>
-    <category>Series</category>
-    <category>default</category>
-  </programme>
-  <programme start="20260825070000 +0000" stop="20260825090000 +0000" channel="dsports.ar">
-    <title>Málaga CF vs. Real Club Deportivo de A Coruña</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812684/images/IMG-8FAEE53A-E1F8-49B3-939F-AE7197355426.jpeg" />
-  </programme>
-  <programme start="20260825050000 +0000" stop="20260825053000 +0000" channel="dsports.ar">
-    <title>Laliga: Espanyol vs. Real Madrid</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260825133000 +0000" stop="20260825140000 +0000" channel="dsports.ar">
-    <title>LaLiga: Atlético de Madrid vs. Villarreal</title>
-    <category>Series</category>
-    <category>default</category>
-  </programme>
-  <programme start="20260825053000 +0000" stop="20260825070000 +0000" channel="dsports.ar">
-    <title>Fútbol Total</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260825130000 +0000" stop="20260825133000 +0000" channel="dsports.ar">
-    <title>Messi vs. Ronaldo, temporada 2009/2010</title>
-    <category>Series</category>
-    <category>Mini-Series</category>
-  </programme>
-  <programme start="20260825090000 +0000" stop="20260825110000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Nite</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
-  </programme>
-  <programme start="20260825133000 +0000" stop="20260825140000 +0000" channel="dsports.ar">
-    <title>LaLiga: Atlético de Madrid vs. Villarreal</title>
-    <category>Series</category>
-    <category>default</category>
-  </programme>
-  <programme start="20260825130000 +0000" stop="20260825133000 +0000" channel="dsports.ar">
-    <title>Messi vs. Ronaldo, temporada 2009/2010</title>
-    <category>Series</category>
-    <category>Mini-Series</category>
-  </programme>
-  <programme start="20260825053000 +0000" stop="20260825070000 +0000" channel="dsports.ar">
-    <title>Fútbol Total</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260826030000 +0000" stop="20260826040000 +0000" channel="dsports.ar">
-    <title>Lo Mejor de DSPORTS Fight</title>
+  <programme start="20260828033000 +0000" stop="20260828040000 +0000" channel="dsports_plus.ar">
+    <title>2026 La Vuelta Highlights</title>
     <category>Sports</category>
-    <category>Talk</category>
+    <category>Bicycle</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010687350000/images/IMG-7A5F18FC-8A13-4BBA-84C7-0ADF9B4FD507.jpeg" />
   </programme>
-  <programme start="20260826040000 +0000" stop="20260826050000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Nite</title>
+  <programme start="20260828110000 +0000" stop="20260828113000 +0000" channel="dsports_plus.ar">
+    <title>Lebron James</title>
     <category>Series</category>
     <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
   </programme>
-  <programme start="20260825160000 +0000" stop="20260825173000 +0000" channel="dsports.ar">
-    <title>De Fútbol Se Habla Así Argentina</title>
+  <programme start="20260828090000 +0000" stop="20260828110000 +0000" channel="dsports_plus.ar">
+    <title>Chile vs. Estados Unidos</title>
     <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010360560000/images/IMG-32D2F0D0-F17F-4342-9CA1-FC35323870EA.jpeg" />
+    <category>Basketball</category>
   </programme>
-  <programme start="20260825213000 +0000" stop="20260825230000 +0000" channel="dsports.ar">
-    <title>Fútbol Total</title>
+  <programme start="20260828210000 +0000" stop="20260828213000 +0000" channel="dsports_plus.ar">
+    <title>Liege Bastogne</title>
     <category>Series</category>
-    <category>Soccer</category>
+    <category>Bicycle</category>
   </programme>
-  <programme start="20260825230000 +0000" stop="20260825235500 +0000" channel="dsports.ar">
-    <title>El juego</title>
-    <category>Sports</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010180580000/images/IMG-BA69E644-3A4E-4240-81E2-BA291EE428E0.jpeg" />
-  </programme>
-  <programme start="20260825173000 +0000" stop="20260825190000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias</title>
+  <programme start="20260828140000 +0000" stop="20260828160000 +0000" channel="dsports_plus.ar">
+    <title>Argentina vs. Puerto Rico</title>
     <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
+    <category>Basketball</category>
   </programme>
-  <programme start="20260825190000 +0000" stop="20260825200000 +0000" channel="dsports.ar">
-    <title>Puede pasar</title>
-    <category>Talk</category>
-    <category>default</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010269730000/images/IMG-48DEA2C4-0E70-4245-9C39-BBC76BFFF684.jpeg" />
-  </programme>
-  <programme start="20260825230000 +0000" stop="20260825235500 +0000" channel="dsports.ar">
-    <title>El juego</title>
-    <category>Sports</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010180580000/images/IMG-BA69E644-3A4E-4240-81E2-BA291EE428E0.jpeg" />
-  </programme>
-  <programme start="20260825140000 +0000" stop="20260825160000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Lite</title>
+  <programme start="20260828190000 +0000" stop="20260828210000 +0000" channel="dsports_plus.ar">
+    <title>Panamá vs. Canadá</title>
     <category>Series</category>
-    <category>Current</category>
+    <category>Basketball</category>
   </programme>
-  <programme start="20260825190000 +0000" stop="20260825200000 +0000" channel="dsports.ar">
-    <title>Puede pasar</title>
-    <category>Talk</category>
-    <category>default</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010269730000/images/IMG-48DEA2C4-0E70-4245-9C39-BBC76BFFF684.jpeg" />
-  </programme>
-  <programme start="20260825160000 +0000" stop="20260825173000 +0000" channel="dsports.ar">
-    <title>De Fútbol Se Habla Así Argentina</title>
+  <programme start="20260828113000 +0000" stop="20260828133000 +0000" channel="dsports_plus.ar">
+    <title>Uruguay vs. Bahamas</title>
     <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010360560000/images/IMG-32D2F0D0-F17F-4342-9CA1-FC35323870EA.jpeg" />
+    <category>Basketball</category>
   </programme>
-  <programme start="20260825173000 +0000" stop="20260825190000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias</title>
+  <programme start="20260828213000 +0000" stop="20260828233000 +0000" channel="dsports_plus.ar">
+    <title>Mexico vs. Colombia</title>
     <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
+    <category>Basketball</category>
   </programme>
-  <programme start="20260826020000 +0000" stop="20260826030000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Nite</title>
+  <programme start="20260828043000 +0000" stop="20260828090000 +0000" channel="dsports_plus.ar">
+    <title>PFL New York</title>
     <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
+    <category>Martial Arts</category>
   </programme>
-  <programme start="20260826030000 +0000" stop="20260826040000 +0000" channel="dsports.ar">
-    <title>Lo Mejor de DSPORTS Fight</title>
-    <category>Sports</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260825235500 +0000" stop="20260826020000 +0000" channel="dsports.ar">
-    <title>Cruzeiro vs. Atlético Mineiro</title>
+  <programme start="20260828040000 +0000" stop="20260828043000 +0000" channel="dsports_plus.ar">
+    <title>Yongpyong: Men's Elite</title>
     <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010046050078/images/IMG-6B6AB314-948C-42C5-A211-F3B2B58CC278.jpeg" />
-  </programme>
-  <programme start="20260825200000 +0000" stop="20260825213000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Lite Tarde</title>
-    <category>Talk</category>
-    <category>Current</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010635610000/images/IMG-23114899-DF53-4CF4-800A-AD5297CA0DC8.jpeg" />
-  </programme>
-  <programme start="20260825140000 +0000" stop="20260825160000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Lite</title>
-    <category>Series</category>
-    <category>Current</category>
-  </programme>
-  <programme start="20260826020000 +0000" stop="20260826030000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Nite</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
-  </programme>
-  <programme start="20260826020000 +0000" stop="20260826030000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Nite</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
-  </programme>
-  <programme start="20260825230000 +0000" stop="20260825235500 +0000" channel="dsports.ar">
-    <title>El juego</title>
-    <category>Sports</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010180580000/images/IMG-BA69E644-3A4E-4240-81E2-BA291EE428E0.jpeg" />
-  </programme>
-  <programme start="20260825213000 +0000" stop="20260825230000 +0000" channel="dsports.ar">
-    <title>Fútbol Total</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260825230000 +0000" stop="20260825235500 +0000" channel="dsports.ar">
-    <title>El juego</title>
-    <category>Sports</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010180580000/images/IMG-BA69E644-3A4E-4240-81E2-BA291EE428E0.jpeg" />
-  </programme>
-  <programme start="20260825160000 +0000" stop="20260825173000 +0000" channel="dsports.ar">
-    <title>De Fútbol Se Habla Así Argentina</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010360560000/images/IMG-32D2F0D0-F17F-4342-9CA1-FC35323870EA.jpeg" />
-  </programme>
-  <programme start="20260825235500 +0000" stop="20260826020000 +0000" channel="dsports.ar">
-    <title>Cruzeiro vs. Atlético Mineiro</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010046050078/images/IMG-6B6AB314-948C-42C5-A211-F3B2B58CC278.jpeg" />
-  </programme>
-  <programme start="20260826030000 +0000" stop="20260826040000 +0000" channel="dsports.ar">
-    <title>Lo Mejor de DSPORTS Fight</title>
-    <category>Sports</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260825200000 +0000" stop="20260825213000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Lite Tarde</title>
-    <category>Talk</category>
-    <category>Current</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010635610000/images/IMG-23114899-DF53-4CF4-800A-AD5297CA0DC8.jpeg" />
-  </programme>
-  <programme start="20260825173000 +0000" stop="20260825190000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
-  </programme>
-  <programme start="20260825190000 +0000" stop="20260825200000 +0000" channel="dsports.ar">
-    <title>Puede pasar</title>
-    <category>Talk</category>
-    <category>default</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010269730000/images/IMG-48DEA2C4-0E70-4245-9C39-BBC76BFFF684.jpeg" />
-  </programme>
-  <programme start="20260825200000 +0000" stop="20260825213000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Lite Tarde</title>
-    <category>Talk</category>
-    <category>Current</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010635610000/images/IMG-23114899-DF53-4CF4-800A-AD5297CA0DC8.jpeg" />
-  </programme>
-  <programme start="20260825213000 +0000" stop="20260825230000 +0000" channel="dsports.ar">
-    <title>Fútbol Total</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260825213000 +0000" stop="20260825230000 +0000" channel="dsports.ar">
-    <title>Fútbol Total</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260825235500 +0000" stop="20260826020000 +0000" channel="dsports.ar">
-    <title>Cruzeiro vs. Atlético Mineiro</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010046050078/images/IMG-6B6AB314-948C-42C5-A211-F3B2B58CC278.jpeg" />
-  </programme>
-  <programme start="20260826020000 +0000" stop="20260826030000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Nite</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
-  </programme>
-  <programme start="20260825190000 +0000" stop="20260825200000 +0000" channel="dsports.ar">
-    <title>Puede pasar</title>
-    <category>Talk</category>
-    <category>default</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010269730000/images/IMG-48DEA2C4-0E70-4245-9C39-BBC76BFFF684.jpeg" />
-  </programme>
-  <programme start="20260825235500 +0000" stop="20260826020000 +0000" channel="dsports.ar">
-    <title>Cruzeiro vs. Atlético Mineiro</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010046050078/images/IMG-6B6AB314-948C-42C5-A211-F3B2B58CC278.jpeg" />
-  </programme>
-  <programme start="20260825140000 +0000" stop="20260825160000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Lite</title>
-    <category>Series</category>
-    <category>Current</category>
-  </programme>
-  <programme start="20260825140000 +0000" stop="20260825160000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Lite</title>
-    <category>Series</category>
-    <category>Current</category>
-  </programme>
-  <programme start="20260825200000 +0000" stop="20260825213000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Lite Tarde</title>
-    <category>Talk</category>
-    <category>Current</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010635610000/images/IMG-23114899-DF53-4CF4-800A-AD5297CA0DC8.jpeg" />
-  </programme>
-  <programme start="20260826040000 +0000" stop="20260826050000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Nite</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
-  </programme>
-  <programme start="20260825173000 +0000" stop="20260825190000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
-  </programme>
-  <programme start="20260826030000 +0000" stop="20260826040000 +0000" channel="dsports.ar">
-    <title>Lo Mejor de DSPORTS Fight</title>
-    <category>Sports</category>
-    <category>Talk</category>
-  </programme>
-  <programme start="20260825160000 +0000" stop="20260825173000 +0000" channel="dsports.ar">
-    <title>De Fútbol Se Habla Así Argentina</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010360560000/images/IMG-32D2F0D0-F17F-4342-9CA1-FC35323870EA.jpeg" />
+    <category>Bicycle</category>
   </programme>
   <programme start="20260826133000 +0000" stop="20260826140000 +0000" channel="dsports.ar">
     <title>Liga de Portugal: Porto vs. Arouca</title>
     <category>Series</category>
     <category>default</category>
   </programme>
-  <programme start="20260826173000 +0000" stop="20260826190000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias</title>
+  <programme start="20260828133000 +0000" stop="20260828140000 +0000" channel="dsports.ar">
+    <title>LaLiga: Barcelona vs. Athletic de Bilbao</title>
     <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260826133000 +0000" stop="20260826140000 +0000" channel="dsports.ar">
+    <title>Liga de Portugal: Porto vs. Arouca</title>
+    <category>Series</category>
+    <category>default</category>
   </programme>
   <programme start="20260826110000 +0000" stop="20260826130000 +0000" channel="dsports.ar">
     <title>Atlético de Madrid vs. Villarreal CF</title>
     <category>Series</category>
     <category>Soccer</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812677/images/IMG-6E951E52-F599-4BE8-8C58-AFC15C779DBE.jpeg" />
-  </programme>
-  <programme start="20260826040000 +0000" stop="20260826050000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Nite</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
   </programme>
   <programme start="20260826090000 +0000" stop="20260826110000 +0000" channel="dsports.ar">
     <title>DSPORTS Noticias Nite</title>
@@ -696,7 +325,7 @@
   <programme start="20260826140000 +0000" stop="20260826160000 +0000" channel="dsports.ar">
     <title>DSPORTS Noticias Lite</title>
     <category>Series</category>
-    <category>Current</category>
+    <category>Sports</category>
   </programme>
   <programme start="20260826130000 +0000" stop="20260826133000 +0000" channel="dsports.ar">
     <title>LaLiga 2010-11: Messi vs. Ronaldo</title>
@@ -707,12 +336,6 @@
     <title>LaLiga 2010-11: Messi vs. Ronaldo</title>
     <category>Series</category>
     <category>Mini-Series</category>
-  </programme>
-  <programme start="20260826160000 +0000" stop="20260826173000 +0000" channel="dsports.ar">
-    <title>De Fútbol Se Habla Así Argentina</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010360560000/images/IMG-32D2F0D0-F17F-4342-9CA1-FC35323870EA.jpeg" />
   </programme>
   <programme start="20260826050000 +0000" stop="20260826053000 +0000" channel="dsports.ar">
     <title>LaLiga: Atlético de Madrid vs. Villarreal</title>
@@ -740,12 +363,6 @@
     <category>Series</category>
     <category>default</category>
   </programme>
-  <programme start="20260826160000 +0000" stop="20260826173000 +0000" channel="dsports.ar">
-    <title>De Fútbol Se Habla Así Argentina</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010360560000/images/IMG-32D2F0D0-F17F-4342-9CA1-FC35323870EA.jpeg" />
-  </programme>
   <programme start="20260826090000 +0000" stop="20260826110000 +0000" channel="dsports.ar">
     <title>DSPORTS Noticias Nite</title>
     <category>Series</category>
@@ -756,23 +373,17 @@
     <title>Espanyol vs. Real Madrid</title>
     <category>Series</category>
     <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812683/images/IMG-2E1A843B-5381-4C0B-9010-637ADB8D8938.jpeg" />
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812683/images/IMG-593F0F27-DCCE-43BF-B3AB-2C1780650E48.jpeg" />
   </programme>
   <programme start="20260826133000 +0000" stop="20260826140000 +0000" channel="dsports.ar">
     <title>Liga de Portugal: Porto vs. Arouca</title>
     <category>Series</category>
     <category>default</category>
   </programme>
-  <programme start="20260826160000 +0000" stop="20260826173000 +0000" channel="dsports.ar">
-    <title>De Fútbol Se Habla Así Argentina</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010360560000/images/IMG-32D2F0D0-F17F-4342-9CA1-FC35323870EA.jpeg" />
-  </programme>
   <programme start="20260826140000 +0000" stop="20260826160000 +0000" channel="dsports.ar">
     <title>DSPORTS Noticias Lite</title>
     <category>Series</category>
-    <category>Current</category>
+    <category>Sports</category>
   </programme>
   <programme start="20260826053000 +0000" stop="20260826070000 +0000" channel="dsports.ar">
     <title>Fútbol Total</title>
@@ -784,45 +395,27 @@
     <category>Series</category>
     <category>Mini-Series</category>
   </programme>
-  <programme start="20260826173000 +0000" stop="20260826190000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
-  </programme>
   <programme start="20260826050000 +0000" stop="20260826053000 +0000" channel="dsports.ar">
     <title>LaLiga: Atlético de Madrid vs. Villarreal</title>
     <category>Series</category>
     <category>default</category>
   </programme>
-  <programme start="20260826160000 +0000" stop="20260826173000 +0000" channel="dsports.ar">
-    <title>De Fútbol Se Habla Así Argentina</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010360560000/images/IMG-32D2F0D0-F17F-4342-9CA1-FC35323870EA.jpeg" />
-  </programme>
   <programme start="20260826140000 +0000" stop="20260826160000 +0000" channel="dsports.ar">
     <title>DSPORTS Noticias Lite</title>
     <category>Series</category>
-    <category>Current</category>
-  </programme>
-  <programme start="20260826040000 +0000" stop="20260826050000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Nite</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
+    <category>Sports</category>
   </programme>
   <programme start="20260826070000 +0000" stop="20260826090000 +0000" channel="dsports.ar">
     <title>Espanyol vs. Real Madrid</title>
     <category>Series</category>
     <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812683/images/IMG-2E1A843B-5381-4C0B-9010-637ADB8D8938.jpeg" />
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812683/images/IMG-593F0F27-DCCE-43BF-B3AB-2C1780650E48.jpeg" />
   </programme>
   <programme start="20260826070000 +0000" stop="20260826090000 +0000" channel="dsports.ar">
     <title>Espanyol vs. Real Madrid</title>
     <category>Series</category>
     <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812683/images/IMG-2E1A843B-5381-4C0B-9010-637ADB8D8938.jpeg" />
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812683/images/IMG-593F0F27-DCCE-43BF-B3AB-2C1780650E48.jpeg" />
   </programme>
   <programme start="20260826130000 +0000" stop="20260826133000 +0000" channel="dsports.ar">
     <title>LaLiga 2010-11: Messi vs. Ronaldo</title>
@@ -834,23 +427,6 @@
     <category>Series</category>
     <category>Talk</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
-  </programme>
-  <programme start="20260826133000 +0000" stop="20260826140000 +0000" channel="dsports.ar">
-    <title>Liga de Portugal: Porto vs. Arouca</title>
-    <category>Series</category>
-    <category>default</category>
-  </programme>
-  <programme start="20260826173000 +0000" stop="20260826190000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
-  </programme>
-  <programme start="20260826173000 +0000" stop="20260826190000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
   </programme>
   <programme start="20260826110000 +0000" stop="20260826130000 +0000" channel="dsports.ar">
     <title>Atlético de Madrid vs. Villarreal CF</title>
@@ -882,13 +458,13 @@
   <programme start="20260826140000 +0000" stop="20260826160000 +0000" channel="dsports.ar">
     <title>DSPORTS Noticias Lite</title>
     <category>Series</category>
-    <category>Current</category>
+    <category>Sports</category>
   </programme>
   <programme start="20260826070000 +0000" stop="20260826090000 +0000" channel="dsports.ar">
     <title>Espanyol vs. Real Madrid</title>
     <category>Series</category>
     <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812683/images/IMG-2E1A843B-5381-4C0B-9010-637ADB8D8938.jpeg" />
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812683/images/IMG-593F0F27-DCCE-43BF-B3AB-2C1780650E48.jpeg" />
   </programme>
   <programme start="20260826190000 +0000" stop="20260826200000 +0000" channel="dsports.ar">
     <title>Puede pasar</title>
@@ -896,17 +472,11 @@
     <category>default</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010269730000/images/IMG-48DEA2C4-0E70-4245-9C39-BBC76BFFF684.jpeg" />
   </programme>
-  <programme start="20260826190000 +0000" stop="20260826200000 +0000" channel="dsports.ar">
-    <title>Puede pasar</title>
-    <category>Talk</category>
-    <category>default</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010269730000/images/IMG-48DEA2C4-0E70-4245-9C39-BBC76BFFF684.jpeg" />
-  </programme>
-  <programme start="20260827070000 +0000" stop="20260827090000 +0000" channel="dsports.ar">
-    <title>River Plate vs. Independiente Santa Fe</title>
+  <programme start="20260826173000 +0000" stop="20260826190000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias</title>
     <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010017601196/images/IMG-87CBCFB7-B056-483E-91F7-3D589DAA7A44.jpeg" />
+    <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
   </programme>
   <programme start="20260827043000 +0000" stop="20260827053000 +0000" channel="dsports.ar">
     <title>DSPORTS Noticias Nite</title>
@@ -918,13 +488,6 @@
     <title>River Plate vs. Independiente Santa Fe</title>
     <category>Series</category>
     <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010017601196/images/IMG-87CBCFB7-B056-483E-91F7-3D589DAA7A44.jpeg" />
-  </programme>
-  <programme start="20260827070000 +0000" stop="20260827090000 +0000" channel="dsports.ar">
-    <title>River Plate vs. Independiente Santa Fe</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010017601196/images/IMG-87CBCFB7-B056-483E-91F7-3D589DAA7A44.jpeg" />
   </programme>
   <programme start="20260827040000 +0000" stop="20260827043000 +0000" channel="dsports.ar">
     <title>Liga de Portugal: Porto vs. Arouca</title>
@@ -934,7 +497,7 @@
   <programme start="20260826200000 +0000" stop="20260826210000 +0000" channel="dsports.ar">
     <title>DSPORTS Noticias Lite Tarde</title>
     <category>Talk</category>
-    <category>Current</category>
+    <category>Sports</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010635610000/images/IMG-23114899-DF53-4CF4-800A-AD5297CA0DC8.jpeg" />
   </programme>
   <programme start="20260826190000 +0000" stop="20260826200000 +0000" channel="dsports.ar">
@@ -952,13 +515,14 @@
   <programme start="20260826200000 +0000" stop="20260826210000 +0000" channel="dsports.ar">
     <title>DSPORTS Noticias Lite Tarde</title>
     <category>Talk</category>
-    <category>Current</category>
+    <category>Sports</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010635610000/images/IMG-23114899-DF53-4CF4-800A-AD5297CA0DC8.jpeg" />
   </programme>
-  <programme start="20260827053000 +0000" stop="20260827070000 +0000" channel="dsports.ar">
-    <title>Fútbol Total</title>
+  <programme start="20260826160000 +0000" stop="20260826173000 +0000" channel="dsports.ar">
+    <title>De Fútbol Se Habla Así Argentina</title>
     <category>Series</category>
     <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010360560000/images/IMG-32D2F0D0-F17F-4342-9CA1-FC35323870EA.jpeg" />
   </programme>
   <programme start="20260827040000 +0000" stop="20260827043000 +0000" channel="dsports.ar">
     <title>Liga de Portugal: Porto vs. Arouca</title>
@@ -976,22 +540,10 @@
     <category>Series</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260827070000 +0000" stop="20260827090000 +0000" channel="dsports.ar">
-    <title>River Plate vs. Independiente Santa Fe</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010017601196/images/IMG-87CBCFB7-B056-483E-91F7-3D589DAA7A44.jpeg" />
-  </programme>
   <programme start="20260826210000 +0000" stop="20260826223000 +0000" channel="dsports.ar">
     <title>Fútbol Total</title>
     <category>Series</category>
     <category>Soccer</category>
-  </programme>
-  <programme start="20260827070000 +0000" stop="20260827090000 +0000" channel="dsports.ar">
-    <title>River Plate vs. Independiente Santa Fe</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010017601196/images/IMG-87CBCFB7-B056-483E-91F7-3D589DAA7A44.jpeg" />
   </programme>
   <programme start="20260826190000 +0000" stop="20260826200000 +0000" channel="dsports.ar">
     <title>Puede pasar</title>
@@ -1007,29 +559,42 @@
   <programme start="20260826200000 +0000" stop="20260826210000 +0000" channel="dsports.ar">
     <title>DSPORTS Noticias Lite Tarde</title>
     <category>Talk</category>
-    <category>Current</category>
+    <category>Sports</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010635610000/images/IMG-23114899-DF53-4CF4-800A-AD5297CA0DC8.jpeg" />
   </programme>
-  <programme start="20260827090000 +0000" stop="20260827110000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Nite</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
-  </programme>
-  <programme start="20260827053000 +0000" stop="20260827070000 +0000" channel="dsports.ar">
-    <title>Fútbol Total</title>
+  <programme start="20260826160000 +0000" stop="20260826173000 +0000" channel="dsports.ar">
+    <title>De Fútbol Se Habla Así Argentina</title>
     <category>Series</category>
     <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010360560000/images/IMG-32D2F0D0-F17F-4342-9CA1-FC35323870EA.jpeg" />
+  </programme>
+  <programme start="20260826160000 +0000" stop="20260826173000 +0000" channel="dsports.ar">
+    <title>De Fútbol Se Habla Así Argentina</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010360560000/images/IMG-32D2F0D0-F17F-4342-9CA1-FC35323870EA.jpeg" />
   </programme>
   <programme start="20260826223000 +0000" stop="20260827002000 +0000" channel="dsports.ar">
     <title>CONMEBOL Sudamericana: River Plate vs. Independiente Santa Fe</title>
     <category>Series</category>
     <category>Soccer</category>
   </programme>
+  <programme start="20260826190000 +0000" stop="20260826200000 +0000" channel="dsports.ar">
+    <title>Puede pasar</title>
+    <category>Talk</category>
+    <category>default</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010269730000/images/IMG-48DEA2C4-0E70-4245-9C39-BBC76BFFF684.jpeg" />
+  </programme>
   <programme start="20260826210000 +0000" stop="20260826223000 +0000" channel="dsports.ar">
     <title>Fútbol Total</title>
     <category>Series</category>
     <category>Soccer</category>
+  </programme>
+  <programme start="20260826173000 +0000" stop="20260826190000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias</title>
+    <category>Series</category>
+    <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
   </programme>
   <programme start="20260827023000 +0000" stop="20260827040000 +0000" channel="dsports.ar">
     <title>DSPORTS Noticias Nite</title>
@@ -1037,10 +602,16 @@
     <category>Talk</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
   </programme>
+  <programme start="20260826160000 +0000" stop="20260826173000 +0000" channel="dsports.ar">
+    <title>De Fútbol Se Habla Así Argentina</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010360560000/images/IMG-32D2F0D0-F17F-4342-9CA1-FC35323870EA.jpeg" />
+  </programme>
   <programme start="20260826200000 +0000" stop="20260826210000 +0000" channel="dsports.ar">
     <title>DSPORTS Noticias Lite Tarde</title>
     <category>Talk</category>
-    <category>Current</category>
+    <category>Sports</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010635610000/images/IMG-23114899-DF53-4CF4-800A-AD5297CA0DC8.jpeg" />
   </programme>
   <programme start="20260826223000 +0000" stop="20260827002000 +0000" channel="dsports.ar">
@@ -1058,7 +629,6 @@
     <title>River Plate vs. Independiente Santa Fe</title>
     <category>Series</category>
     <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010017601196/images/IMG-87CBCFB7-B056-483E-91F7-3D589DAA7A44.jpeg" />
   </programme>
   <programme start="20260827040000 +0000" stop="20260827043000 +0000" channel="dsports.ar">
     <title>Liga de Portugal: Porto vs. Arouca</title>
@@ -1075,28 +645,23 @@
     <title>River Plate vs. Independiente Santa Fe</title>
     <category>Series</category>
     <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010017601196/images/IMG-87CBCFB7-B056-483E-91F7-3D589DAA7A44.jpeg" />
   </programme>
-  <programme start="20260827053000 +0000" stop="20260827070000 +0000" channel="dsports.ar">
-    <title>Fútbol Total</title>
+  <programme start="20260826173000 +0000" stop="20260826190000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias</title>
     <category>Series</category>
-    <category>Soccer</category>
+    <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
   </programme>
   <programme start="20260827040000 +0000" stop="20260827043000 +0000" channel="dsports.ar">
     <title>Liga de Portugal: Porto vs. Arouca</title>
     <category>Series</category>
     <category>default</category>
   </programme>
-  <programme start="20260827053000 +0000" stop="20260827070000 +0000" channel="dsports.ar">
-    <title>Fútbol Total</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260827090000 +0000" stop="20260827110000 +0000" channel="dsports.ar">
-    <title>DSPORTS Noticias Nite</title>
+  <programme start="20260826173000 +0000" stop="20260826190000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias</title>
     <category>Series</category>
     <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
   </programme>
   <programme start="20260827023000 +0000" stop="20260827040000 +0000" channel="dsports.ar">
     <title>DSPORTS Noticias Nite</title>
@@ -1113,7 +678,6 @@
     <title>River Plate vs. Independiente Santa Fe</title>
     <category>Series</category>
     <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010017601196/images/IMG-87CBCFB7-B056-483E-91F7-3D589DAA7A44.jpeg" />
   </programme>
   <programme start="20260826223000 +0000" stop="20260827002000 +0000" channel="dsports.ar">
     <title>CONMEBOL Sudamericana: River Plate vs. Independiente Santa Fe</title>
@@ -1135,17 +699,27 @@
     <title>Barcelona vs. Athletic de Bilbao</title>
     <category>Series</category>
     <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812686/images/IMG-1473D980-E204-4C0B-9226-942B00F78272.jpeg" />
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812686/images/IMG-7CB6BBDD-7551-4F59-86B1-11018B83ECB0.jpeg" />
   </programme>
   <programme start="20260827140000 +0000" stop="20260827160000 +0000" channel="dsports.ar">
     <title>DSPORTS Noticias Lite</title>
     <category>Series</category>
-    <category>Current</category>
+    <category>Sports</category>
+  </programme>
+  <programme start="20260827070000 +0000" stop="20260827090000 +0000" channel="dsports.ar">
+    <title>River Plate vs. Independiente Santa Fe</title>
+    <category>Series</category>
+    <category>Soccer</category>
   </programme>
   <programme start="20260827133000 +0000" stop="20260827140000 +0000" channel="dsports.ar">
     <title>CONMEBOL Sudamericana: River Plate vs. Independiente Santa Fe</title>
     <category>Series</category>
     <category>default</category>
+  </programme>
+  <programme start="20260827070000 +0000" stop="20260827090000 +0000" channel="dsports.ar">
+    <title>River Plate vs. Independiente Santa Fe</title>
+    <category>Series</category>
+    <category>Soccer</category>
   </programme>
   <programme start="20260827160000 +0000" stop="20260827173000 +0000" channel="dsports.ar">
     <title>De Fútbol Se Habla Así Argentina</title>
@@ -1159,11 +733,6 @@
     <category>default</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010269730000/images/IMG-48DEA2C4-0E70-4245-9C39-BBC76BFFF684.jpeg" />
   </programme>
-  <programme start="20260827210000 +0000" stop="20260827225500 +0000" channel="dsports.ar">
-    <title>Fútbol Total</title>
-    <category>Series</category>
-    <category>Soccer</category>
-  </programme>
   <programme start="20260827133000 +0000" stop="20260827140000 +0000" channel="dsports.ar">
     <title>CONMEBOL Sudamericana: River Plate vs. Independiente Santa Fe</title>
     <category>Series</category>
@@ -1174,12 +743,6 @@
     <category>Series</category>
     <category>Mini-Series</category>
   </programme>
-  <programme start="20260827225500 +0000" stop="20260828010000 +0000" channel="dsports.ar">
-    <title>Internacional vs. Grêmio</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010046050079/images/IMG-1C9DDBBA-E23A-419D-A5B2-8D925C4303CF.jpeg" />
-  </programme>
   <programme start="20260827160000 +0000" stop="20260827173000 +0000" channel="dsports.ar">
     <title>De Fútbol Se Habla Así Argentina</title>
     <category>Series</category>
@@ -1189,7 +752,7 @@
   <programme start="20260827140000 +0000" stop="20260827160000 +0000" channel="dsports.ar">
     <title>DSPORTS Noticias Lite</title>
     <category>Series</category>
-    <category>Current</category>
+    <category>Sports</category>
   </programme>
   <programme start="20260827130000 +0000" stop="20260827133000 +0000" channel="dsports.ar">
     <title>LaLiga 2010-11: Messi vs. Ronaldo</title>
@@ -1201,13 +764,18 @@
     <category>Series</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260827183000 +0000" stop="20260827185500 +0000" channel="dsports.ar">
-    <title>LaLiga: Barcelona vs. Athletic Club</title>
+  <programme start="20260827053000 +0000" stop="20260827070000 +0000" channel="dsports.ar">
+    <title>Fútbol Total</title>
     <category>Series</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260827210000 +0000" stop="20260827225500 +0000" channel="dsports.ar">
-    <title>Fútbol Total</title>
+  <programme start="20260827070000 +0000" stop="20260827090000 +0000" channel="dsports.ar">
+    <title>River Plate vs. Independiente Santa Fe</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260827183000 +0000" stop="20260827185500 +0000" channel="dsports.ar">
+    <title>LaLiga: Barcelona vs. Athletic Club</title>
     <category>Series</category>
     <category>Soccer</category>
   </programme>
@@ -1216,23 +784,21 @@
     <category>Talk</category>
     <category>default</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010269730000/images/IMG-48DEA2C4-0E70-4245-9C39-BBC76BFFF684.jpeg" />
+  </programme>
+  <programme start="20260827070000 +0000" stop="20260827090000 +0000" channel="dsports.ar">
+    <title>River Plate vs. Independiente Santa Fe</title>
+    <category>Series</category>
+    <category>Soccer</category>
   </programme>
   <programme start="20260827110000 +0000" stop="20260827130000 +0000" channel="dsports.ar">
     <title>River Plate vs. Independiente Santa Fe</title>
     <category>Series</category>
     <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010017601196/images/IMG-87CBCFB7-B056-483E-91F7-3D589DAA7A44.jpeg" />
   </programme>
   <programme start="20260827130000 +0000" stop="20260827133000 +0000" channel="dsports.ar">
     <title>LaLiga 2010-11: Messi vs. Ronaldo</title>
     <category>Series</category>
     <category>Mini-Series</category>
-  </programme>
-  <programme start="20260827185500 +0000" stop="20260827210000 +0000" channel="dsports.ar">
-    <title>Barcelona vs. Athletic de Bilbao</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812686/images/IMG-1473D980-E204-4C0B-9226-942B00F78272.jpeg" />
   </programme>
   <programme start="20260827133000 +0000" stop="20260827140000 +0000" channel="dsports.ar">
     <title>CONMEBOL Sudamericana: River Plate vs. Independiente Santa Fe</title>
@@ -1248,7 +814,18 @@
   <programme start="20260827140000 +0000" stop="20260827160000 +0000" channel="dsports.ar">
     <title>DSPORTS Noticias Lite</title>
     <category>Series</category>
-    <category>Current</category>
+    <category>Sports</category>
+  </programme>
+  <programme start="20260827090000 +0000" stop="20260827110000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Nite</title>
+    <category>Series</category>
+    <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
+  </programme>
+  <programme start="20260827053000 +0000" stop="20260827070000 +0000" channel="dsports.ar">
+    <title>Fútbol Total</title>
+    <category>Series</category>
+    <category>Soccer</category>
   </programme>
   <programme start="20260827090000 +0000" stop="20260827110000 +0000" channel="dsports.ar">
     <title>DSPORTS Noticias Nite</title>
@@ -1260,7 +837,6 @@
     <title>River Plate vs. Independiente Santa Fe</title>
     <category>Series</category>
     <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010017601196/images/IMG-87CBCFB7-B056-483E-91F7-3D589DAA7A44.jpeg" />
   </programme>
   <programme start="20260827160000 +0000" stop="20260827173000 +0000" channel="dsports.ar">
     <title>De Fútbol Se Habla Así Argentina</title>
@@ -1274,23 +850,10 @@
     <category>Talk</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
   </programme>
-  <programme start="20260827225500 +0000" stop="20260828010000 +0000" channel="dsports.ar">
-    <title>Internacional vs. Grêmio</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010046050079/images/IMG-1C9DDBBA-E23A-419D-A5B2-8D925C4303CF.jpeg" />
-  </programme>
   <programme start="20260827110000 +0000" stop="20260827130000 +0000" channel="dsports.ar">
     <title>River Plate vs. Independiente Santa Fe</title>
     <category>Series</category>
     <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010017601196/images/IMG-87CBCFB7-B056-483E-91F7-3D589DAA7A44.jpeg" />
-  </programme>
-  <programme start="20260827225500 +0000" stop="20260828010000 +0000" channel="dsports.ar">
-    <title>Internacional vs. Grêmio</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010046050079/images/IMG-1C9DDBBA-E23A-419D-A5B2-8D925C4303CF.jpeg" />
   </programme>
   <programme start="20260827173000 +0000" stop="20260827183000 +0000" channel="dsports.ar">
     <title>Puede pasar</title>
@@ -1301,7 +864,17 @@
   <programme start="20260827140000 +0000" stop="20260827160000 +0000" channel="dsports.ar">
     <title>DSPORTS Noticias Lite</title>
     <category>Series</category>
-    <category>Current</category>
+    <category>Sports</category>
+  </programme>
+  <programme start="20260827053000 +0000" stop="20260827070000 +0000" channel="dsports.ar">
+    <title>Fútbol Total</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260827053000 +0000" stop="20260827070000 +0000" channel="dsports.ar">
+    <title>Fútbol Total</title>
+    <category>Series</category>
+    <category>Soccer</category>
   </programme>
   <programme start="20260827133000 +0000" stop="20260827140000 +0000" channel="dsports.ar">
     <title>CONMEBOL Sudamericana: River Plate vs. Independiente Santa Fe</title>
@@ -1314,93 +887,504 @@
     <category>Soccer</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010360560000/images/IMG-32D2F0D0-F17F-4342-9CA1-FC35323870EA.jpeg" />
   </programme>
-  <programme start="20260827210000 +0000" stop="20260827225500 +0000" channel="dsports.ar">
-    <title>Fútbol Total</title>
+  <programme start="20260827090000 +0000" stop="20260827110000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Nite</title>
     <category>Series</category>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260827210000 +0000" stop="20260827225500 +0000" channel="dsports.ar">
-    <title>Fútbol Total</title>
-    <category>Series</category>
-    <category>Soccer</category>
+    <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
   </programme>
   <programme start="20260827110000 +0000" stop="20260827130000 +0000" channel="dsports.ar">
     <title>River Plate vs. Independiente Santa Fe</title>
     <category>Series</category>
     <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010017601196/images/IMG-87CBCFB7-B056-483E-91F7-3D589DAA7A44.jpeg" />
   </programme>
   <programme start="20260827185500 +0000" stop="20260827210000 +0000" channel="dsports.ar">
     <title>Barcelona vs. Athletic de Bilbao</title>
     <category>Series</category>
     <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812686/images/IMG-1473D980-E204-4C0B-9226-942B00F78272.jpeg" />
-  </programme>
-  <programme start="20260827225500 +0000" stop="20260828010000 +0000" channel="dsports.ar">
-    <title>Internacional vs. Grêmio</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010046050079/images/IMG-1C9DDBBA-E23A-419D-A5B2-8D925C4303CF.jpeg" />
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812686/images/IMG-7CB6BBDD-7551-4F59-86B1-11018B83ECB0.jpeg" />
   </programme>
   <programme start="20260827130000 +0000" stop="20260827133000 +0000" channel="dsports.ar">
     <title>LaLiga 2010-11: Messi vs. Ronaldo</title>
     <category>Series</category>
     <category>Mini-Series</category>
   </programme>
-  <programme start="20260827185500 +0000" stop="20260827210000 +0000" channel="dsports.ar">
-    <title>Barcelona vs. Athletic de Bilbao</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812686/images/IMG-1473D980-E204-4C0B-9226-942B00F78272.jpeg" />
-  </programme>
   <programme start="20260827183000 +0000" stop="20260827185500 +0000" channel="dsports.ar">
     <title>LaLiga: Barcelona vs. Athletic Club</title>
     <category>Series</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260825123000 +0000" stop="20260825140000 +0000" channel="dsports2.ar">
-    <title>CONMEBOL Sub-20 Fútbol Playa 2025</title>
+  <programme start="20260828110000 +0000" stop="20260828130000 +0000" channel="dsports.ar">
+    <title>Real Madrid vs. Real Sociedad de Fútbol</title>
     <category>Series</category>
-    <category>Beach Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010686600000/images/IMG-B9C8C7DE-4B8A-47BD-897F-45B9D173EE6E.jpeg" />
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812680/images/IMG-289324EC-E049-4FDC-AC45-65896156EC7C.jpeg" />
   </programme>
-  <programme start="20260825060000 +0000" stop="20260825063000 +0000" channel="dsports2.ar">
-    <title>Laliga: Espanyol vs. Real Madrid</title>
+  <programme start="20260828050000 +0000" stop="20260828070000 +0000" channel="dsports.ar">
+    <title>Fútbol Total</title>
     <category>Series</category>
     <category>Soccer</category>
   </programme>
-  <programme start="20260826070000 +0000" stop="20260826090000 +0000" channel="dsports2.ar">
-    <title>Cruzeiro vs. Atlético Mineiro</title>
+  <programme start="20260827185500 +0000" stop="20260827210000 +0000" channel="dsports.ar">
+    <title>Barcelona vs. Athletic de Bilbao</title>
     <category>Series</category>
     <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010046050078/images/IMG-6B6AB314-948C-42C5-A211-F3B2B58CC278.jpeg" />
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812686/images/IMG-7CB6BBDD-7551-4F59-86B1-11018B83ECB0.jpeg" />
   </programme>
-  <programme start="20260826163000 +0000" stop="20260826165000 +0000" channel="dsports2.ar">
-    <title>Perlas en la CONMEBOL Sudamericana</title>
+  <programme start="20260827185500 +0000" stop="20260827210000 +0000" channel="dsports.ar">
+    <title>Barcelona vs. Athletic de Bilbao</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812686/images/IMG-7CB6BBDD-7551-4F59-86B1-11018B83ECB0.jpeg" />
+  </programme>
+  <programme start="20260828110000 +0000" stop="20260828130000 +0000" channel="dsports.ar">
+    <title>Real Madrid vs. Real Sociedad de Fútbol</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812680/images/IMG-289324EC-E049-4FDC-AC45-65896156EC7C.jpeg" />
+  </programme>
+  <programme start="20260828090000 +0000" stop="20260828110000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Nite</title>
+    <category>Series</category>
+    <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
+  </programme>
+  <programme start="20260828070000 +0000" stop="20260828090000 +0000" channel="dsports.ar">
+    <title>Barcelona vs. Athletic de Bilbao</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812686/images/IMG-7CB6BBDD-7551-4F59-86B1-11018B83ECB0.jpeg" />
+  </programme>
+  <programme start="20260828033000 +0000" stop="20260828040000 +0000" channel="dsports.ar">
+    <title>Alessandro del Piero</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
+  <programme start="20260828090000 +0000" stop="20260828110000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Nite</title>
+    <category>Series</category>
+    <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
+  </programme>
+  <programme start="20260827210000 +0000" stop="20260827225500 +0000" channel="dsports.ar">
+    <title>Fútbol Total</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260828010000 +0000" stop="20260828030000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Nite</title>
+    <category>Series</category>
+    <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
+  </programme>
+  <programme start="20260828090000 +0000" stop="20260828110000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Nite</title>
+    <category>Series</category>
+    <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
+  </programme>
+  <programme start="20260827225500 +0000" stop="20260828010000 +0000" channel="dsports.ar">
+    <title>Internacional vs. Grêmio</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010046050079/images/IMG-D6B0C129-69AC-4F17-8E07-956B3C19B457.jpeg" />
+  </programme>
+  <programme start="20260828110000 +0000" stop="20260828130000 +0000" channel="dsports.ar">
+    <title>Real Madrid vs. Real Sociedad de Fútbol</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812680/images/IMG-289324EC-E049-4FDC-AC45-65896156EC7C.jpeg" />
+  </programme>
+  <programme start="20260828030000 +0000" stop="20260828033000 +0000" channel="dsports.ar">
+    <title>España campeón del Mundo 2026</title>
     <category>Series</category>
     <category>Documentary</category>
   </programme>
-  <programme start="20260825050000 +0000" stop="20260825060000 +0000" channel="dsports2.ar">
+  <programme start="20260828040000 +0000" stop="20260828050000 +0000" channel="dsports.ar">
     <title>DSPORTS Noticias Nite</title>
     <category>Series</category>
     <category>Talk</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
   </programme>
-  <programme start="20260825070000 +0000" stop="20260825090000 +0000" channel="dsports2.ar">
-    <title>FC Porto vs. Arouca</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010036230735/images/IMG-8AA50777-6861-4E9C-9AC5-22789EB43DE2.jpeg" />
-  </programme>
-  <programme start="20260826205000 +0000" stop="20260826223000 +0000" channel="dsports2.ar">
-    <title>Colombia Sub-20 vs. Perú Sub-20</title>
-    <category>Series</category>
-    <category>Beach Soccer</category>
-  </programme>
-  <programme start="20260825233000 +0000" stop="20260826000000 +0000" channel="dsports2.ar">
-    <title>Manny Pacquiao</title>
+  <programme start="20260828010000 +0000" stop="20260828030000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Nite</title>
     <category>Series</category>
     <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
+  </programme>
+  <programme start="20260827210000 +0000" stop="20260827225500 +0000" channel="dsports.ar">
+    <title>Fútbol Total</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260828030000 +0000" stop="20260828033000 +0000" channel="dsports.ar">
+    <title>España campeón del Mundo 2026</title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme start="20260828030000 +0000" stop="20260828033000 +0000" channel="dsports.ar">
+    <title>España campeón del Mundo 2026</title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme start="20260828110000 +0000" stop="20260828130000 +0000" channel="dsports.ar">
+    <title>Real Madrid vs. Real Sociedad de Fútbol</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812680/images/IMG-289324EC-E049-4FDC-AC45-65896156EC7C.jpeg" />
+  </programme>
+  <programme start="20260828033000 +0000" stop="20260828040000 +0000" channel="dsports.ar">
+    <title>Alessandro del Piero</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
+  <programme start="20260828033000 +0000" stop="20260828040000 +0000" channel="dsports.ar">
+    <title>Alessandro del Piero</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
+  <programme start="20260828090000 +0000" stop="20260828110000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Nite</title>
+    <category>Series</category>
+    <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
+  </programme>
+  <programme start="20260828040000 +0000" stop="20260828050000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Nite</title>
+    <category>Series</category>
+    <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
+  </programme>
+  <programme start="20260828050000 +0000" stop="20260828070000 +0000" channel="dsports.ar">
+    <title>Fútbol Total</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260827225500 +0000" stop="20260828010000 +0000" channel="dsports.ar">
+    <title>Internacional vs. Grêmio</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010046050079/images/IMG-D6B0C129-69AC-4F17-8E07-956B3C19B457.jpeg" />
+  </programme>
+  <programme start="20260828030000 +0000" stop="20260828033000 +0000" channel="dsports.ar">
+    <title>España campeón del Mundo 2026</title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme start="20260828040000 +0000" stop="20260828050000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Nite</title>
+    <category>Series</category>
+    <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
+  </programme>
+  <programme start="20260827225500 +0000" stop="20260828010000 +0000" channel="dsports.ar">
+    <title>Internacional vs. Grêmio</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010046050079/images/IMG-D6B0C129-69AC-4F17-8E07-956B3C19B457.jpeg" />
+  </programme>
+  <programme start="20260828010000 +0000" stop="20260828030000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Nite</title>
+    <category>Series</category>
+    <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
+  </programme>
+  <programme start="20260828010000 +0000" stop="20260828030000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Nite</title>
+    <category>Series</category>
+    <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
+  </programme>
+  <programme start="20260828050000 +0000" stop="20260828070000 +0000" channel="dsports.ar">
+    <title>Fútbol Total</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260828050000 +0000" stop="20260828070000 +0000" channel="dsports.ar">
+    <title>Fútbol Total</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260828070000 +0000" stop="20260828090000 +0000" channel="dsports.ar">
+    <title>Barcelona vs. Athletic de Bilbao</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812686/images/IMG-7CB6BBDD-7551-4F59-86B1-11018B83ECB0.jpeg" />
+  </programme>
+  <programme start="20260827210000 +0000" stop="20260827225500 +0000" channel="dsports.ar">
+    <title>Fútbol Total</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260827210000 +0000" stop="20260827225500 +0000" channel="dsports.ar">
+    <title>Fútbol Total</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260828033000 +0000" stop="20260828040000 +0000" channel="dsports.ar">
+    <title>Alessandro del Piero</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
+  <programme start="20260827225500 +0000" stop="20260828010000 +0000" channel="dsports.ar">
+    <title>Internacional vs. Grêmio</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010046050079/images/IMG-D6B0C129-69AC-4F17-8E07-956B3C19B457.jpeg" />
+  </programme>
+  <programme start="20260828070000 +0000" stop="20260828090000 +0000" channel="dsports.ar">
+    <title>Barcelona vs. Athletic de Bilbao</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812686/images/IMG-7CB6BBDD-7551-4F59-86B1-11018B83ECB0.jpeg" />
+  </programme>
+  <programme start="20260828070000 +0000" stop="20260828090000 +0000" channel="dsports.ar">
+    <title>Barcelona vs. Athletic de Bilbao</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812686/images/IMG-7CB6BBDD-7551-4F59-86B1-11018B83ECB0.jpeg" />
+  </programme>
+  <programme start="20260828040000 +0000" stop="20260828050000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Nite</title>
+    <category>Series</category>
+    <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
+  </programme>
+  <programme start="20260828213000 +0000" stop="20260828230000 +0000" channel="dsports.ar">
+    <title>Fútbol Total</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260828213000 +0000" stop="20260828230000 +0000" channel="dsports.ar">
+    <title>Fútbol Total</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260828230000 +0000" stop="20260829002500 +0000" channel="dsports.ar">
+    <title>El juego</title>
+    <category>Sports</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010180580000/images/IMG-BA69E644-3A4E-4240-81E2-BA291EE428E0.jpeg" />
+  </programme>
+  <programme start="20260828130000 +0000" stop="20260828133000 +0000" channel="dsports.ar">
+    <title>España campeón del Mundo 2026</title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme start="20260828200000 +0000" stop="20260828213000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Lite Tarde</title>
+    <category>Talk</category>
+    <category>Sports</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010635610000/images/IMG-23114899-DF53-4CF4-800A-AD5297CA0DC8.jpeg" />
+  </programme>
+  <programme start="20260828173000 +0000" stop="20260828190000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias</title>
+    <category>Series</category>
+    <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
+  </programme>
+  <programme start="20260828140000 +0000" stop="20260828160000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Lite</title>
+    <category>Series</category>
+    <category>Sports</category>
+  </programme>
+  <programme start="20260828140000 +0000" stop="20260828160000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Lite</title>
+    <category>Series</category>
+    <category>Sports</category>
+  </programme>
+  <programme start="20260828160000 +0000" stop="20260828173000 +0000" channel="dsports.ar">
+    <title>De Fútbol Se Habla Así Argentina</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010360560000/images/IMG-32D2F0D0-F17F-4342-9CA1-FC35323870EA.jpeg" />
+  </programme>
+  <programme start="20260828160000 +0000" stop="20260828173000 +0000" channel="dsports.ar">
+    <title>De Fútbol Se Habla Así Argentina</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010360560000/images/IMG-32D2F0D0-F17F-4342-9CA1-FC35323870EA.jpeg" />
+  </programme>
+  <programme start="20260828230000 +0000" stop="20260829002500 +0000" channel="dsports.ar">
+    <title>El juego</title>
+    <category>Sports</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010180580000/images/IMG-BA69E644-3A4E-4240-81E2-BA291EE428E0.jpeg" />
+  </programme>
+  <programme start="20260828200000 +0000" stop="20260828213000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Lite Tarde</title>
+    <category>Talk</category>
+    <category>Sports</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010635610000/images/IMG-23114899-DF53-4CF4-800A-AD5297CA0DC8.jpeg" />
+  </programme>
+  <programme start="20260828133000 +0000" stop="20260828140000 +0000" channel="dsports.ar">
+    <title>LaLiga: Barcelona vs. Athletic de Bilbao</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260828190000 +0000" stop="20260828200000 +0000" channel="dsports.ar">
+    <title>Puede pasar</title>
+    <category>Talk</category>
+    <category>default</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010269730000/images/IMG-48DEA2C4-0E70-4245-9C39-BBC76BFFF684.jpeg" />
+  </programme>
+  <programme start="20260828230000 +0000" stop="20260829002500 +0000" channel="dsports.ar">
+    <title>El juego</title>
+    <category>Sports</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010180580000/images/IMG-BA69E644-3A4E-4240-81E2-BA291EE428E0.jpeg" />
+  </programme>
+  <programme start="20260828140000 +0000" stop="20260828160000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Lite</title>
+    <category>Series</category>
+    <category>Sports</category>
+  </programme>
+  <programme start="20260828160000 +0000" stop="20260828173000 +0000" channel="dsports.ar">
+    <title>De Fútbol Se Habla Así Argentina</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010360560000/images/IMG-32D2F0D0-F17F-4342-9CA1-FC35323870EA.jpeg" />
+  </programme>
+  <programme start="20260828200000 +0000" stop="20260828213000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Lite Tarde</title>
+    <category>Talk</category>
+    <category>Sports</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010635610000/images/IMG-23114899-DF53-4CF4-800A-AD5297CA0DC8.jpeg" />
+  </programme>
+  <programme start="20260828230000 +0000" stop="20260829002500 +0000" channel="dsports.ar">
+    <title>El juego</title>
+    <category>Sports</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010180580000/images/IMG-BA69E644-3A4E-4240-81E2-BA291EE428E0.jpeg" />
+  </programme>
+  <programme start="20260828213000 +0000" stop="20260828230000 +0000" channel="dsports.ar">
+    <title>Fútbol Total</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260828133000 +0000" stop="20260828140000 +0000" channel="dsports.ar">
+    <title>LaLiga: Barcelona vs. Athletic de Bilbao</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260828200000 +0000" stop="20260828213000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Lite Tarde</title>
+    <category>Talk</category>
+    <category>Sports</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010635610000/images/IMG-23114899-DF53-4CF4-800A-AD5297CA0DC8.jpeg" />
+  </programme>
+  <programme start="20260828140000 +0000" stop="20260828160000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias Lite</title>
+    <category>Series</category>
+    <category>Sports</category>
+  </programme>
+  <programme start="20260828130000 +0000" stop="20260828133000 +0000" channel="dsports.ar">
+    <title>España campeón del Mundo 2026</title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme start="20260828190000 +0000" stop="20260828200000 +0000" channel="dsports.ar">
+    <title>Puede pasar</title>
+    <category>Talk</category>
+    <category>default</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010269730000/images/IMG-48DEA2C4-0E70-4245-9C39-BBC76BFFF684.jpeg" />
+  </programme>
+  <programme start="20260828173000 +0000" stop="20260828190000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias</title>
+    <category>Series</category>
+    <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
+  </programme>
+  <programme start="20260828133000 +0000" stop="20260828140000 +0000" channel="dsports.ar">
+    <title>LaLiga: Barcelona vs. Athletic de Bilbao</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260828213000 +0000" stop="20260828230000 +0000" channel="dsports.ar">
+    <title>Fútbol Total</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260828190000 +0000" stop="20260828200000 +0000" channel="dsports.ar">
+    <title>Puede pasar</title>
+    <category>Talk</category>
+    <category>default</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010269730000/images/IMG-48DEA2C4-0E70-4245-9C39-BBC76BFFF684.jpeg" />
+  </programme>
+  <programme start="20260828190000 +0000" stop="20260828200000 +0000" channel="dsports.ar">
+    <title>Puede pasar</title>
+    <category>Talk</category>
+    <category>default</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010269730000/images/IMG-48DEA2C4-0E70-4245-9C39-BBC76BFFF684.jpeg" />
+  </programme>
+  <programme start="20260828160000 +0000" stop="20260828173000 +0000" channel="dsports.ar">
+    <title>De Fútbol Se Habla Así Argentina</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010360560000/images/IMG-32D2F0D0-F17F-4342-9CA1-FC35323870EA.jpeg" />
+  </programme>
+  <programme start="20260828130000 +0000" stop="20260828133000 +0000" channel="dsports.ar">
+    <title>España campeón del Mundo 2026</title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme start="20260828173000 +0000" stop="20260828190000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias</title>
+    <category>Series</category>
+    <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
+  </programme>
+  <programme start="20260828130000 +0000" stop="20260828133000 +0000" channel="dsports.ar">
+    <title>España campeón del Mundo 2026</title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme start="20260828173000 +0000" stop="20260828190000 +0000" channel="dsports.ar">
+    <title>DSPORTS Noticias</title>
+    <category>Series</category>
+    <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010259120000/images/IMG-D89D9D41-D3A2-4833-B93A-74E926EABFC2.jpeg" />
+  </programme>
+  <programme start="20260827163000 +0000" stop="20260827170000 +0000" channel="dsports2.ar">
+    <title>Perlas En La Sudamericana: Parte 2</title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme start="20260827050000 +0000" stop="20260827053000 +0000" channel="dsports2.ar">
+    <title>Boca campeón sudamericana 2004</title>
+    <category>Series</category>
+    <category>Mini-Series</category>
+  </programme>
+  <programme start="20260826183000 +0000" stop="20260826185000 +0000" channel="dsports2.ar">
+    <title>Batacazos de la Copa Sudamericana</title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme start="20260828113000 +0000" stop="20260828133000 +0000" channel="dsports2.ar">
+    <title>River Plate vs. Independiente Santa Fe</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260827140000 +0000" stop="20260827143000 +0000" channel="dsports2.ar">
+    <title>CONMEBOL Sudamericana: River Plate vs. Independiente Santa Fe</title>
+    <category>Series</category>
+    <category>default</category>
+  </programme>
+  <programme start="20260828070000 +0000" stop="20260828090000 +0000" channel="dsports2.ar">
+    <title>River Plate vs. Independiente Santa Fe</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260827090000 +0000" stop="20260827110000 +0000" channel="dsports2.ar">
+    <title>Atlético de Madrid vs. Villarreal CF</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812677/images/IMG-6E951E52-F599-4BE8-8C58-AFC15C779DBE.jpeg" />
+  </programme>
+  <programme start="20260826205000 +0000" stop="20260826223000 +0000" channel="dsports2.ar">
+    <title>Colombia vs. Perú</title>
+    <category>Series</category>
+    <category>Beach Soccer</category>
   </programme>
   <programme start="20260826110000 +0000" stop="20260826120000 +0000" channel="dsports2.ar">
     <title>Lo Mejor de DSPORTS Fight</title>
@@ -1412,44 +1396,27 @@
     <category>Series</category>
     <category>Documentary</category>
   </programme>
-  <programme start="20260825143000 +0000" stop="20260825163000 +0000" channel="dsports2.ar">
-    <title>Elche vs. Barcelona</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812676/images/IMG-537228C1-BDAA-4E09-A3E7-0A60DDC50A01.jpeg" />
-  </programme>
-  <programme start="20260826230000 +0000" stop="20260827000000 +0000" channel="dsports2.ar">
-    <title>DSPORTS Básquet</title>
-    <category>Talk</category>
-    <category>Basketball</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010280670000/images/IMG-E7A66A76-515D-46C2-9118-348D90CD98F5.jpeg" />
-  </programme>
   <programme start="20260826120000 +0000" stop="20260826140000 +0000" channel="dsports2.ar">
     <title>Cruzeiro vs. Atlético Mineiro</title>
     <category>Series</category>
     <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010046050078/images/IMG-6B6AB314-948C-42C5-A211-F3B2B58CC278.jpeg" />
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010046050078/images/IMG-1C7580E0-F9BB-4168-9739-E7467C2D71DB.jpeg" />
   </programme>
   <programme start="20260826140000 +0000" stop="20260826143000 +0000" channel="dsports2.ar">
     <title>Liga de Portugal: Porto vs. Arouca</title>
     <category>Series</category>
     <category>default</category>
   </programme>
-  <programme start="20260826000000 +0000" stop="20260826010000 +0000" channel="dsports2.ar">
-    <title>Lo Mejor de DSPORTS Fight</title>
-    <category>Sports</category>
-    <category>Talk</category>
+  <programme start="20260826163000 +0000" stop="20260826165000 +0000" channel="dsports2.ar">
+    <title>Perlas en la CONMEBOL Sudamericana</title>
+    <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20260826090000 +0000" stop="20260826110000 +0000" channel="dsports2.ar">
     <title>Elche vs. Barcelona</title>
     <category>Series</category>
     <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812676/images/IMG-537228C1-BDAA-4E09-A3E7-0A60DDC50A01.jpeg" />
-  </programme>
-  <programme start="20260825110000 +0000" stop="20260825120000 +0000" channel="dsports2.ar">
-    <title>Más que fútbol</title>
-    <category>Sports</category>
-    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812676/images/IMG-AEEA39ED-A4C2-4517-9D18-8BB5A1D2A132.jpeg" />
   </programme>
   <programme start="20260826060000 +0000" stop="20260826063000 +0000" channel="dsports2.ar">
     <title>LaLiga: Atlético de Madrid vs. Villarreal</title>
@@ -1463,112 +1430,35 @@
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
   </programme>
   <programme start="20260826185000 +0000" stop="20260826203000 +0000" channel="dsports2.ar">
-    <title>Chile Sub-20 vs. Argentina Sub-20</title>
+    <title>Chile vs. Argentina</title>
     <category>Series</category>
     <category>Beach Soccer</category>
-  </programme>
-  <programme start="20260825170000 +0000" stop="20260825190000 +0000" channel="dsports2.ar">
-    <title>Espanyol vs. Real Madrid</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812683/images/IMG-2E1A843B-5381-4C0B-9010-637ADB8D8938.jpeg" />
   </programme>
   <programme start="20260826165000 +0000" stop="20260826183000 +0000" channel="dsports2.ar">
-    <title>Uruguay Sub-20 vs. Paraguay Sub-20</title>
+    <title>Uruguay vs. Paraguay</title>
     <category>Series</category>
     <category>Beach Soccer</category>
-  </programme>
-  <programme start="20260826030000 +0000" stop="20260826050000 +0000" channel="dsports2.ar">
-    <title>Elche vs. Barcelona</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812676/images/IMG-537228C1-BDAA-4E09-A3E7-0A60DDC50A01.jpeg" />
-  </programme>
-  <programme start="20260825213000 +0000" stop="20260825230000 +0000" channel="dsports2.ar">
-    <title>CONMEBOL Sub-20 Fútbol Playa 2025</title>
-    <category>Series</category>
-    <category>Beach Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010686600000/images/IMG-B9C8C7DE-4B8A-47BD-897F-45B9D173EE6E.jpeg" />
-  </programme>
-  <programme start="20260827000000 +0000" stop="20260827002500 +0000" channel="dsports2.ar">
-    <title>Simplemente Diego: El partido</title>
-    <category>Series</category>
-    <category>Documentary</category>
   </programme>
   <programme start="20260826063000 +0000" stop="20260826070000 +0000" channel="dsports2.ar">
     <title>Boca campeón sudamericana 2004</title>
     <category>Series</category>
     <category>Mini-Series</category>
   </programme>
-  <programme start="20260825063000 +0000" stop="20260825070000 +0000" channel="dsports2.ar">
-    <title>Racing campeón de la Copa Sudamericana 2024</title>
-    <category>Series</category>
-    <category>Documentary</category>
-  </programme>
   <programme start="20260826145000 +0000" stop="20260826163000 +0000" channel="dsports2.ar">
-    <title>Brasil Sub-20 vs. Bolivia Sub-20</title>
+    <title>Brasil vs. Bolivia</title>
     <category>Series</category>
     <category>Beach Soccer</category>
-  </programme>
-  <programme start="20260826010000 +0000" stop="20260826030000 +0000" channel="dsports2.ar">
-    <title>Málaga CF vs. Real Club Deportivo de A Coruña</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812684/images/IMG-8FAEE53A-E1F8-49B3-939F-AE7197355426.jpeg" />
-  </programme>
-  <programme start="20260826183000 +0000" stop="20260826185000 +0000" channel="dsports2.ar">
-    <title>Batacazos de la Copa Sudamericana</title>
-    <category>Series</category>
-    <category>Documentary</category>
-  </programme>
-  <programme start="20260825230000 +0000" stop="20260825233000 +0000" channel="dsports2.ar">
-    <title>LaLiga Highlights</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010038290000/images/IMG-9D543EF8-8136-419E-BA7B-6FCCE9766C67.jpeg" />
   </programme>
   <programme start="20260826143000 +0000" stop="20260826145000 +0000" channel="dsports2.ar">
     <title>Independiente Campeón Copa Sudamericana 2010</title>
     <category>Series</category>
     <category>Documentary</category>
   </programme>
-  <programme start="20260825140000 +0000" stop="20260825143000 +0000" channel="dsports2.ar">
-    <title>LaLiga: Atlético de Madrid vs. Villarreal</title>
-    <category>Series</category>
-    <category>default</category>
-  </programme>
-  <programme start="20260825163000 +0000" stop="20260825170000 +0000" channel="dsports2.ar">
-    <title>Supercopa Española 2022</title>
-    <category>Series</category>
-    <category>Documentary</category>
-  </programme>
-  <programme start="20260825193000 +0000" stop="20260825213000 +0000" channel="dsports2.ar">
-    <title>FC Porto vs. Arouca</title>
+  <programme start="20260826070000 +0000" stop="20260826090000 +0000" channel="dsports2.ar">
+    <title>Cruzeiro vs. Atlético Mineiro</title>
     <category>Series</category>
     <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010036230735/images/IMG-8AA50777-6861-4E9C-9AC5-22789EB43DE2.jpeg" />
-  </programme>
-  <programme start="20260826223000 +0000" stop="20260826230000 +0000" channel="dsports2.ar">
-    <title>Liga de Portugal: Porto vs. Arouca</title>
-    <category>Series</category>
-    <category>default</category>
-  </programme>
-  <programme start="20260825190000 +0000" stop="20260825193000 +0000" channel="dsports2.ar">
-    <title>Iker Casillas</title>
-    <category>Series</category>
-    <category>Talk</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010072210055/images/IMG-140CEFB0-960D-4A88-8156-F0101514D7A8.jpeg" />
-  </programme>
-  <programme start="20260825090000 +0000" stop="20260825110000 +0000" channel="dsports2.ar">
-    <title>Athletic de Bilbao vs. Sevilla</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812685/images/IMG-B75D8C90-A25D-4E4A-9750-643A687185E4.jpeg" />
-  </programme>
-  <programme start="20260825120000 +0000" stop="20260825123000 +0000" channel="dsports2.ar">
-    <title>Goleadas en Copa Sudamericana</title>
-    <category>Series</category>
-    <category>Mini-Series</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010046050078/images/IMG-1C7580E0-F9BB-4168-9739-E7467C2D71DB.jpeg" />
   </programme>
   <programme start="20260827063000 +0000" stop="20260827070000 +0000" channel="dsports2.ar">
     <title>River Plate Campeón Copa Sudamericana 2014</title>
@@ -1576,17 +1466,17 @@
     <category>Documentary</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010280270083/images/IMG-5174B2E0-7818-4885-9081-72B3435D4740.jpeg" />
   </programme>
-  <programme start="20260826030000 +0000" stop="20260826090000 +0000" channel="dsports_motors.ar">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  <programme start="20260828163000 +0000" stop="20260828170000 +0000" channel="dsports2.ar">
+    <title>LaLiga Show</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010144320000/images/IMG-8C87F8E1-D7E9-45EF-9F8E-90589067744C.jpeg" />
   </programme>
-  <programme start="20260826150000 +0000" stop="20260826210000 +0000" channel="dsports_motors.ar">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  <programme start="20260828090000 +0000" stop="20260828110000 +0000" channel="dsports2.ar">
+    <title>Barcelona vs. Athletic de Bilbao</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812686/images/IMG-7CB6BBDD-7551-4F59-86B1-11018B83ECB0.jpeg" />
   </programme>
   <programme start="20260827053000 +0000" stop="20260827063000 +0000" channel="dsports2.ar">
     <title>DSPORTS Noticias Nite</title>
@@ -1594,11 +1484,15 @@
     <category>Talk</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
   </programme>
-  <programme start="20260826210000 +0000" stop="20260827030000 +0000" channel="dsports_motors.ar">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  <programme start="20260828013000 +0000" stop="20260828020000 +0000" channel="dsports2.ar">
+    <title>Lebron James</title>
+    <category>Series</category>
+    <category>Talk</category>
+  </programme>
+  <programme start="20260828110000 +0000" stop="20260828113000 +0000" channel="dsports2.ar">
+    <title>España campeón del Mundo 2026</title>
+    <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20260827030000 +0000" stop="20260827050000 +0000" channel="dsports2.ar">
     <title>Atlético de Madrid vs. Villarreal CF</title>
@@ -1606,26 +1500,31 @@
     <category>Soccer</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812677/images/IMG-6E951E52-F599-4BE8-8C58-AFC15C779DBE.jpeg" />
   </programme>
+  <programme start="20260828170000 +0000" stop="20260828190000 +0000" channel="dsports2.ar">
+    <title>Internacional vs. Grêmio</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010046050079/images/IMG-D6B0C129-69AC-4F17-8E07-956B3C19B457.jpeg" />
+  </programme>
+  <programme start="20260828040000 +0000" stop="20260828050000 +0000" channel="dsports2.ar">
+    <title>Magazine CONMEBOL Sudamericana</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260828191000 +0000" stop="20260828211500 +0000" channel="dsports2.ar">
+    <title>Rio Ave FC vs. Sporting Club de Portugal</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010036230739/images/IMG-808B01F0-A87E-414F-B9D4-5311779D6A4E.jpeg" />
+  </programme>
   <programme start="20260827070000 +0000" stop="20260827090000 +0000" channel="dsports2.ar">
     <title>Palmeiras vs. Santos</title>
     <category>Series</category>
     <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010046050081/images/IMG-55052778-3D4B-4F03-B460-03A3456A6693.jpeg" />
-  </programme>
-  <programme start="20260825210000 +0000" stop="20260826030000 +0000" channel="dsports_motors.ar">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260826150000 +0000" stop="20260826210000 +0000" channel="dsports_motors.ar">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010046050081/images/IMG-FA6583CA-C5D7-4750-91D4-F0D3F6720354.jpeg" />
   </programme>
   <programme start="20260827145000 +0000" stop="20260827163000 +0000" channel="dsports2.ar">
-    <title>Uruguay Sub-20 vs. Ecuador Sub-20</title>
+    <title>Uruguay vs. Ecuador</title>
     <category>Series</category>
     <category>Beach Soccer</category>
   </programme>
@@ -1639,52 +1538,44 @@
     <category>Series</category>
     <category>default</category>
   </programme>
-  <programme start="20260826090000 +0000" stop="20260826150000 +0000" channel="dsports_motors.ar">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260825090000 +0000" stop="20260825150000 +0000" channel="dsports_motors.ar">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  <programme start="20260826230000 +0000" stop="20260827000000 +0000" channel="dsports2.ar">
+    <title>DSPORTS Básquet</title>
+    <category>Talk</category>
+    <category>Basketball</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010280670000/images/IMG-E7A66A76-515D-46C2-9118-348D90CD98F5.jpeg" />
   </programme>
   <programme start="20260827143000 +0000" stop="20260827145000 +0000" channel="dsports2.ar">
     <title>Perlas en la CONMEBOL Sudamericana</title>
     <category>Series</category>
     <category>Documentary</category>
   </programme>
+  <programme start="20260828050000 +0000" stop="20260828060000 +0000" channel="dsports2.ar">
+    <title>DSPORTS Noticias Nite</title>
+    <category>Series</category>
+    <category>Talk</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010643730000/images/IMG-BE992879-11F5-4CD1-A645-096140F85F49.jpeg" />
+  </programme>
   <programme start="20260827182500 +0000" stop="20260827203000 +0000" channel="dsports2.ar">
     <title>RC Celta vs. Osasuna</title>
     <category>Series</category>
     <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812674/images/IMG-1E4B62ED-45BD-4359-A6F3-279C27BF5F39.jpeg" />
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812674/images/IMG-BF1072F4-B2B0-42DA-A5AA-D975008C9F58.jpeg" />
   </programme>
   <programme start="20260827002500 +0000" stop="20260827023000 +0000" channel="dsports2.ar">
     <title>Palmeiras vs. Santos</title>
     <category>Series</category>
     <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010046050081/images/IMG-55052778-3D4B-4F03-B460-03A3456A6693.jpeg" />
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010046050081/images/IMG-FA6583CA-C5D7-4750-91D4-F0D3F6720354.jpeg" />
   </programme>
-  <programme start="20260827030000 +0000" stop="20260827090000 +0000" channel="dsports_motors.ar">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  <programme start="20260828211500 +0000" stop="20260828213000 +0000" channel="dsports2.ar">
+    <title>Independiente Campeón Copa Sudamericana 2010</title>
+    <category>Series</category>
+    <category>Documentary</category>
   </programme>
-  <programme start="20260826210000 +0000" stop="20260827030000 +0000" channel="dsports_motors.ar">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260825150000 +0000" stop="20260825210000 +0000" channel="dsports_motors.ar">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  <programme start="20260828020000 +0000" stop="20260828040000 +0000" channel="dsports2.ar">
+    <title>Mexico vs. Colombia</title>
+    <category>Series</category>
+    <category>Basketball</category>
   </programme>
   <programme start="20260827180000 +0000" stop="20260827182500 +0000" channel="dsports2.ar">
     <title>LaLiga: Celta vs. Osasuna</title>
@@ -1696,11 +1587,15 @@
     <category>Series</category>
     <category>Documentary</category>
   </programme>
-  <programme start="20260826090000 +0000" stop="20260826150000 +0000" channel="dsports_motors.ar">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  <programme start="20260828190000 +0000" stop="20260828191000 +0000" channel="dsports2.ar">
+    <title>Perlas En La Sudamericana: Parte 2</title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme start="20260828060000 +0000" stop="20260828063000 +0000" channel="dsports2.ar">
+    <title>CONMEBOL Sudamericana: River Plate vs. Independiente Santa Fe</title>
+    <category>Series</category>
+    <category>default</category>
   </programme>
   <programme start="20260827173000 +0000" stop="20260827180000 +0000" channel="dsports2.ar">
     <title>Supercopa Española 2022</title>
@@ -1712,25 +1607,23 @@
     <category>Series</category>
     <category>Basketball</category>
   </programme>
-  <programme start="20260827030000 +0000" stop="20260827090000 +0000" channel="dsports_motors.ar">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  <programme start="20260827000000 +0000" stop="20260827002500 +0000" channel="dsports2.ar">
+    <title>Simplemente Diego: El partido</title>
+    <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20260827203000 +0000" stop="20260827205000 +0000" channel="dsports2.ar">
     <title>Batacazos de la Copa Sudamericana</title>
     <category>Series</category>
     <category>Documentary</category>
   </programme>
-  <programme start="20260825090000 +0000" stop="20260825150000 +0000" channel="dsports_motors.ar">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  <programme start="20260828063000 +0000" stop="20260828070000 +0000" channel="dsports2.ar">
+    <title>Lanús campeón Sudamericana 2013</title>
+    <category>Series</category>
+    <category>Documentary</category>
   </programme>
   <programme start="20260827205000 +0000" stop="20260827223000 +0000" channel="dsports2.ar">
-    <title>Perú Sub-20 vs. Chile Sub-20</title>
+    <title>Perú vs. Chile</title>
     <category>Series</category>
     <category>Beach Soccer</category>
   </programme>
@@ -1740,50 +1633,27 @@
     <category>Basketball</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010280670000/images/IMG-E7A66A76-515D-46C2-9118-348D90CD98F5.jpeg" />
   </programme>
-  <programme start="20260826030000 +0000" stop="20260826090000 +0000" channel="dsports_motors.ar">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
   <programme start="20260827120000 +0000" stop="20260827140000 +0000" channel="dsports2.ar">
     <title>Palmeiras vs. Santos</title>
     <category>Series</category>
     <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010046050081/images/IMG-55052778-3D4B-4F03-B460-03A3456A6693.jpeg" />
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010046050081/images/IMG-FA6583CA-C5D7-4750-91D4-F0D3F6720354.jpeg" />
   </programme>
-  <programme start="20260825210000 +0000" stop="20260826030000 +0000" channel="dsports_motors.ar">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260827050000 +0000" stop="20260827053000 +0000" channel="dsports2.ar">
-    <title>Boca campeón sudamericana 2004</title>
-    <category>Series</category>
-    <category>Mini-Series</category>
-  </programme>
-  <programme start="20260825150000 +0000" stop="20260825210000 +0000" channel="dsports_motors.ar">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260827140000 +0000" stop="20260827143000 +0000" channel="dsports2.ar">
-    <title>CONMEBOL Sudamericana: River Plate vs. Independiente Santa Fe</title>
+  <programme start="20260826223000 +0000" stop="20260826230000 +0000" channel="dsports2.ar">
+    <title>Liga de Portugal: Porto vs. Arouca</title>
     <category>Series</category>
     <category>default</category>
   </programme>
-  <programme start="20260827090000 +0000" stop="20260827110000 +0000" channel="dsports2.ar">
-    <title>Atlético de Madrid vs. Villarreal CF</title>
-    <category>Series</category>
-    <category>Soccer</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010026812677/images/IMG-6E951E52-F599-4BE8-8C58-AFC15C779DBE.jpeg" />
+  <programme start="20260828133000 +0000" stop="20260828163000 +0000" channel="dsports2.ar">
+    <title>ONE Friday Fights 168</title>
+    <category>Sports</category>
+    <category>Martial Arts</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010686880000/images/IMG-FD07F073-8EAA-4BEF-BCEB-FF12BA8594E6.jpeg" />
   </programme>
-  <programme start="20260827163000 +0000" stop="20260827170000 +0000" channel="dsports2.ar">
-    <title>Perlas En La Sudamericana: Parte 2</title>
+  <programme start="20260828010000 +0000" stop="20260828013000 +0000" channel="dsports2.ar">
+    <title>Manu Ginóbili: The last dance en la selección</title>
     <category>Series</category>
-    <category>Documentary</category>
+    <category>Mini-Series</category>
   </programme>
   <programme start="20260827210000 +0000" stop="20260827230000 +0000" channel="dsports_motors.ar">
     <title>DSPORTS</title>
@@ -1791,7 +1661,13 @@
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260825090000 +0000" stop="20260825150000 +0000" channel="1616">
+  <programme start="20260826180000 +0000" stop="20260826210000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260828210000 +0000" stop="20260829030000 +0000" channel="dsports_motors.ar">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
@@ -1807,7 +1683,209 @@
     <category>Talk</category>
     <category>default</category>
   </programme>
+  <programme start="20260826150000 +0000" stop="20260826180000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
   <programme start="20260827090000 +0000" stop="20260827120000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260827000000 +0000" stop="20260827090000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260826210000 +0000" stop="20260826214500 +0000" channel="dsports_motors.ar">
+    <title>Copa Ecuador: Liga de Quito vs. Aucas</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260828150000 +0000" stop="20260828210000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260826180000 +0000" stop="20260826210000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260828010000 +0000" stop="20260828030000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260826120000 +0000" stop="20260826150000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260828030000 +0000" stop="20260828090000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260828213000 +0000" stop="20260828233000 +0000" channel="dsports2.ar">
+    <title>River Plate vs. Independiente Santa Fe</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260828090000 +0000" stop="20260828150000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260828010000 +0000" stop="20260828030000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260826210000 +0000" stop="20260826214500 +0000" channel="dsports_motors.ar">
+    <title>Copa Ecuador: Liga de Quito vs. Aucas</title>
+    <category>Series</category>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260826150000 +0000" stop="20260826180000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260826090000 +0000" stop="20260826120000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260828150000 +0000" stop="20260828210000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260828090000 +0000" stop="20260828150000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260827120000 +0000" stop="20260827150000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Talk</category>
+    <category>default</category>
+  </programme>
+  <programme start="20260827180000 +0000" stop="20260827210000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260826090000 +0000" stop="20260826120000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260828030000 +0000" stop="20260828090000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260827230000 +0000" stop="20260828010000 +0000" channel="dsports_motors.ar">
+    <title>Uruguay vs. Bahamas</title>
+    <category>Series</category>
+    <category>Basketball</category>
+  </programme>
+  <programme start="20260827180000 +0000" stop="20260827210000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260828210000 +0000" stop="20260829030000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260827210000 +0000" stop="20260827230000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260826120000 +0000" stop="20260826150000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260827150000 +0000" stop="20260827180000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Talk</category>
+    <category>default</category>
+  </programme>
+  <programme start="20260827090000 +0000" stop="20260827120000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260828233000 +0000" stop="20260829000000 +0000" channel="dsports2.ar">
+    <title>España campeón del Mundo 2026</title>
+    <category>Series</category>
+    <category>Documentary</category>
+  </programme>
+  <programme start="20260826214500 +0000" stop="20260827000000 +0000" channel="dsports_motors.ar">
+    <title>LDU Quito vs. Aucas</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010231120191/images/IMG-9340F594-4CEC-4650-A6E6-DCE3F143C46D.jpeg" />
+  </programme>
+  <programme start="20260826214500 +0000" stop="20260827000000 +0000" channel="dsports_motors.ar">
+    <title>LDU Quito vs. Aucas</title>
+    <category>Series</category>
+    <category>Soccer</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/EP010231120191/images/IMG-9340F594-4CEC-4650-A6E6-DCE3F143C46D.jpeg" />
+  </programme>
+  <programme start="20260827000000 +0000" stop="20260827090000 +0000" channel="dsports_motors.ar">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260827230000 +0000" stop="20260828010000 +0000" channel="dsports_motors.ar">
+    <title>Uruguay vs. Bahamas</title>
+    <category>Series</category>
+    <category>Basketball</category>
+  </programme>
+  <programme start="20260826090000 +0000" stop="20260826150000 +0000" channel="1615">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260826150000 +0000" stop="20260826210000 +0000" channel="1616">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260827030000 +0000" stop="20260827090000 +0000" channel="1616">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
@@ -1831,25 +1909,76 @@
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
+  <programme start="20260827210000 +0000" stop="20260827230000 +0000" channel="1616">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260827090000 +0000" stop="20260827150000 +0000" channel="1616">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260826090000 +0000" stop="20260826150000 +0000" channel="1616">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260826210000 +0000" stop="20260827030000 +0000" channel="1616">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260828090000 +0000" stop="20260828150000 +0000" channel="1615">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260828210000 +0000" stop="20260829030000 +0000" channel="1615">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260827190000 +0000" stop="20260827210000 +0000" channel="1616">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260827230000 +0000" stop="20260828010000 +0000" channel="1616">
+    <title>Brasil vs. República Dominicana</title>
+    <category>Series</category>
+    <category>Basketball</category>
+  </programme>
+  <programme start="20260827150000 +0000" stop="20260827153500 +0000" channel="1616">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
   <programme start="20260827150000 +0000" stop="20260827210000 +0000" channel="1615">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260826090000 +0000" stop="20260826150000 +0000" channel="1615">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  <programme start="20260827153500 +0000" stop="20260827190000 +0000" channel="1616">
+    <title>Día 1</title>
+    <category>Series</category>
+    <category>Bicycle</category>
   </programme>
-  <programme start="20260825150000 +0000" stop="20260825210000 +0000" channel="1616">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  <programme start="20260827153500 +0000" stop="20260827190000 +0000" channel="1616">
+    <title>Día 1</title>
+    <category>Series</category>
+    <category>Bicycle</category>
   </programme>
-  <programme start="20260826030000 +0000" stop="20260826090000 +0000" channel="1615">
+  <programme start="20260828010000 +0000" stop="20260828030000 +0000" channel="1616">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
@@ -1861,64 +1990,48 @@
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260827120000 +0000" stop="20260827150000 +0000" channel="dsports_motors.ar">
-    <title>DSPORTS</title>
-    <category>Talk</category>
-    <category>default</category>
-  </programme>
-  <programme start="20260827180000 +0000" stop="20260827210000 +0000" channel="dsports_motors.ar">
+  <programme start="20260827190000 +0000" stop="20260827210000 +0000" channel="1616">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260825150000 +0000" stop="20260825210000 +0000" channel="1615">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260825090000 +0000" stop="20260825150000 +0000" channel="1615">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260825210000 +0000" stop="20260826030000 +0000" channel="1615">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260827230000 +0000" stop="20260828010000 +0000" channel="dsports_motors.ar">
-    <title>Uruguay vs. Bahamas</title>
+  <programme start="20260827230000 +0000" stop="20260828010000 +0000" channel="1616">
+    <title>Brasil vs. República Dominicana</title>
     <category>Series</category>
     <category>Basketball</category>
   </programme>
-  <programme start="20260825090000 +0000" stop="20260825150000 +0000" channel="1616">
+  <programme start="20260827210000 +0000" stop="20260827230000 +0000" channel="1616">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260827180000 +0000" stop="20260827210000 +0000" channel="dsports_motors.ar">
+  <programme start="20260827030000 +0000" stop="20260827090000 +0000" channel="1616">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260827210000 +0000" stop="20260827230000 +0000" channel="dsports_motors.ar">
+  <programme start="20260827150000 +0000" stop="20260827153500 +0000" channel="1616">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260827150000 +0000" stop="20260827180000 +0000" channel="dsports_motors.ar">
+  <programme start="20260826090000 +0000" stop="20260826150000 +0000" channel="1616">
     <title>DSPORTS</title>
-    <category>Talk</category>
-    <category>default</category>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260827090000 +0000" stop="20260827120000 +0000" channel="dsports_motors.ar">
+  <programme start="20260826150000 +0000" stop="20260826210000 +0000" channel="1616">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260828150000 +0000" stop="20260828210000 +0000" channel="1615">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
@@ -1930,66 +2043,13 @@
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260825150000 +0000" stop="20260825210000 +0000" channel="1616">
+  <programme start="20260826210000 +0000" stop="20260827030000 +0000" channel="1616">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260827230000 +0000" stop="20260828010000 +0000" channel="dsports_motors.ar">
-    <title>Uruguay vs. Bahamas</title>
-    <category>Series</category>
-    <category>Basketball</category>
-  </programme>
-  <programme start="20260825210000 +0000" stop="20260826030000 +0000" channel="1616">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260825210000 +0000" stop="20260826030000 +0000" channel="1616">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260826030000 +0000" stop="20260826090000 +0000" channel="1616">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260826150000 +0000" stop="20260826210000 +0000" channel="1616">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260825090000 +0000" stop="20260825150000 +0000" channel="1618">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260825210000 +0000" stop="20260826030000 +0000" channel="1618">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260827030000 +0000" stop="20260827090000 +0000" channel="1616">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260827210000 +0000" stop="20260827230000 +0000" channel="1616">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260826030000 +0000" stop="20260826090000 +0000" channel="1618">
+  <programme start="20260828030000 +0000" stop="20260828090000 +0000" channel="1615">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
@@ -2001,105 +2061,25 @@
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260826090000 +0000" stop="20260826150000 +0000" channel="1616">
+  <programme start="20260828030000 +0000" stop="20260828090000 +0000" channel="1616">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260826210000 +0000" stop="20260827030000 +0000" channel="1616">
+  <programme start="20260828210000 +0000" stop="20260829030000 +0000" channel="1616">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260827190000 +0000" stop="20260827210000 +0000" channel="1616">
+  <programme start="20260828030000 +0000" stop="20260828090000 +0000" channel="1618">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
-  <programme start="20260827230000 +0000" stop="20260828010000 +0000" channel="1616">
-    <title>Brasil vs. República Dominicana</title>
-    <category>Series</category>
-    <category>Basketball</category>
-  </programme>
-  <programme start="20260827150000 +0000" stop="20260827153500 +0000" channel="1616">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260827153500 +0000" stop="20260827190000 +0000" channel="1616">
-    <title>Día 1</title>
-    <category>Series</category>
-    <category>Motorcycle</category>
-  </programme>
-  <programme start="20260827153500 +0000" stop="20260827190000 +0000" channel="1616">
-    <title>Día 1</title>
-    <category>Series</category>
-    <category>Motorcycle</category>
-  </programme>
-  <programme start="20260826030000 +0000" stop="20260826090000 +0000" channel="1616">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260827190000 +0000" stop="20260827210000 +0000" channel="1616">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260827230000 +0000" stop="20260828010000 +0000" channel="1616">
-    <title>Brasil vs. República Dominicana</title>
-    <category>Series</category>
-    <category>Basketball</category>
-  </programme>
-  <programme start="20260827210000 +0000" stop="20260827230000 +0000" channel="1616">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260827030000 +0000" stop="20260827090000 +0000" channel="1616">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260827150000 +0000" stop="20260827153500 +0000" channel="1616">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260826090000 +0000" stop="20260826150000 +0000" channel="1616">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260825150000 +0000" stop="20260825210000 +0000" channel="1618">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260826150000 +0000" stop="20260826210000 +0000" channel="1616">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260826210000 +0000" stop="20260827030000 +0000" channel="1616">
-    <title>DSPORTS</title>
-    <category>Sports</category>
-    <category>Special</category>
-    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
-  </programme>
-  <programme start="20260827090000 +0000" stop="20260827150000 +0000" channel="1616">
+  <programme start="20260828150000 +0000" stop="20260828210000 +0000" channel="1616">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
@@ -2117,7 +2097,55 @@
     <category>Special</category>
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
+  <programme start="20260828210000 +0000" stop="20260829030000 +0000" channel="1618">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260828090000 +0000" stop="20260828150000 +0000" channel="1616">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260828150000 +0000" stop="20260828210000 +0000" channel="1618">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260828210000 +0000" stop="20260829030000 +0000" channel="1616">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
   <programme start="20260826210000 +0000" stop="20260827030000 +0000" channel="1618">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260828010000 +0000" stop="20260828030000 +0000" channel="1616">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260828090000 +0000" stop="20260828150000 +0000" channel="1616">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260828090000 +0000" stop="20260828150000 +0000" channel="1618">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260828030000 +0000" stop="20260828090000 +0000" channel="1616">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
@@ -2142,6 +2170,12 @@
     <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
   </programme>
   <programme start="20260826090000 +0000" stop="20260826150000 +0000" channel="1618">
+    <title>DSPORTS</title>
+    <category>Sports</category>
+    <category>Special</category>
+    <icon src="https://d355knccl7z6vu.cloudfront.net/programs/DTH/SH010151230000/images/IMG-E68AF46F-51DE-42A2-8D74-BC1BF803E47A.jpeg" />
+  </programme>
+  <programme start="20260828150000 +0000" stop="20260828210000 +0000" channel="1616">
     <title>DSPORTS</title>
     <category>Sports</category>
     <category>Special</category>
